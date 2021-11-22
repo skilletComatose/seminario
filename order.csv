@@ -1,0 +1,1009 @@
+,userid,sex,date,pay_mode,name,type,price,rating
+0,239c63e1-d149-440e-96a5-b53cf3ef19d7,M,2021-04-02 05:40:23,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+1,e734308c-37a2-4a23-9e92-3c78dd596996,M,2021-03-05 16:52:28,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+2,c190a0e3-9d42-4ef4-a074-3969a9cfee52,F,2021-08-27 00:50:34,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+3,8b04bf02-b020-42d4-b5ee-5764990364dc,F,2021-09-23 23:02:17,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+4,6f080f4b-17b1-4bba-aac4-0170a12fdb07,M,2021-09-22 01:08:31,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+5,2411a652-eb50-4334-a23b-65686fbb933f,M,2021-08-19 20:57:12,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+6,7b90c86e-a8ed-4e5a-9cd2-05ba8f0858ca,F,2021-09-25 23:47:14,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+7,3b3cda0f-51b1-49fa-840d-b65353bbfcdb,M,2021-02-17 05:47:29,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+8,92e4519e-861c-4351-bbe7-ec3ec20fc8fb,M,2021-03-09 06:56:37,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+9,88b0e18f-5ffd-4a03-92a5-c16cb3185c94,M,2021-08-19 12:26:10,PSE,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+10,6551f894-5402-4d55-a6af-d4d98aeacde5,M,2021-07-06 01:12:34,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+11,16edd385-8d57-4e51-9026-0fc5ddf3a0bc,M,2021-10-02 20:55:58,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+12,df40e04c-005b-4a73-99a4-6d102e442386,F,2021-03-28 20:48:45,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+13,49265990-b5e1-41e1-810a-d84d6271405e,F,2021-02-25 03:32:04,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+14,8619b3f0-d0e0-4215-be8d-5958fba7ec0d,F,2021-05-18 19:25:58,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+15,3bfdb6d7-3bca-479b-b1df-dde6602c2f53,M,2021-04-05 12:00:28,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+16,dd9a1244-1db0-499a-86b5-bd3f78bba816,F,2021-01-13 05:05:45,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+17,8f4c28ee-9fbb-43d6-af8f-73de6dc99a05,M,2021-05-10 02:40:32,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+18,008a4b1d-cb62-46fa-a829-70b1e7ac57d4,M,2020-12-05 18:40:52,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+19,c4777d70-a3b4-41b0-89cd-69dd1be54367,F,2021-08-29 13:59:38,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+20,70ddb335-1c5f-4aba-83ea-da67b8b6751a,M,2021-05-31 01:07:10,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+21,d15382df-2228-4546-a7f6-b04c4ff57d7b,M,2021-09-19 20:49:38,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+22,d9ca2922-f3c6-4c59-9edb-15a8527b16be,F,2021-03-20 20:18:40,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+23,f31b669c-685b-4805-a83f-4786c407a619,F,2021-07-25 14:48:31,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+24,a1b868c1-f8cb-4f7f-999e-163d5dca4974,M,2021-07-26 02:04:52,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+25,077d45c4-5c67-414f-bef7-acc40943829b,F,2021-07-22 15:08:15,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+26,335650e9-46b5-4cf8-bd4f-b6f99ddf8041,F,2021-09-07 22:50:04,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+27,96e118db-020b-4c19-94f3-01505173146b,F,2021-10-19 06:24:18,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+28,6f6503bd-277a-4de4-ab35-af0c10730ae3,M,2021-02-05 22:46:29,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+29,2f735037-3c4d-46a7-8f49-c5cd578b65b0,M,2020-12-02 22:13:05,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+30,9dd99050-2b4d-4180-95a0-678e5c54b05f,M,2021-10-14 07:40:44,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+31,8cea12a4-ce20-49f5-9194-97a2974beb3e,M,2021-11-20 06:53:15,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+32,3fa3f5c9-a974-4b2a-b5fc-2324483f880d,M,2021-05-19 10:08:03,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+33,1e4753cd-60ed-4e64-8ce9-11c41d42e2bd,F,2021-04-10 19:26:05,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+34,af15ef7e-9a94-4ceb-bb4c-f8c7a6ae032e,F,2021-10-17 05:31:22,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+35,9ec4d787-e071-4d11-a7ec-4f441fee9bac,F,2021-05-11 10:44:17,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+36,e3408ac4-c79b-4bca-9358-4cad0e040899,F,2021-01-09 11:23:37,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+37,ca6ec1ff-a737-466c-9394-a232b28f3be3,M,2021-11-08 13:34:03,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+38,ebc63226-2cc6-4ead-96f1-ff2203a684ef,F,2021-06-25 03:59:21,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+39,d964d906-d045-4f24-b0de-7d4c1918e34e,M,2021-07-05 00:57:22,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+40,471261c9-6b41-4d72-a404-ca6a407b8956,M,2020-12-05 13:10:35,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+41,7e73ceb5-0baa-4c6f-86e8-ac7d55d2fb0c,M,2021-03-31 02:47:14,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+42,ef8431d0-6309-42b1-8135-e50677e25182,F,2021-04-23 13:19:12,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+43,cd2ec610-85d9-4183-90bc-c61d7023fafc,M,2021-08-27 22:51:06,PSE,Aperitivos y Cocteles,bebidas,,3.0
+44,a8c8606c-30f6-4c4c-b822-ad0aea05e3be,F,2020-12-26 20:58:24,CREDIT,Vinos,bebidas,,4.6
+45,d2c2e059-2bf5-49ab-ab8c-dedeba8670cf,M,2021-06-09 20:21:16,CREDIT,Cervezas y Licores,bebidas,,3.7
+46,1d69db58-8579-4fb9-a666-92096efc38a6,M,2021-10-21 03:12:46,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+47,1dfc4523-fc26-4d52-b549-8641d33c1c68,F,2021-11-16 18:08:11,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+48,469ab8cf-769d-4351-8da4-511fffdabe7a,M,2021-07-18 01:12:15,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+49,97b4fe0e-13c8-4dee-9f5c-a415ea06f161,F,2021-07-17 20:34:17,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+50,e8c7107d-7aff-4fa1-90fa-4eedda1485c5,M,2021-06-02 11:39:17,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+51,2d98cd97-f846-4492-978a-40f918239665,M,2021-04-29 14:31:43,PSE,Postre de Natas ,postres,$ 14.600,3.5
+52,80211768-6364-48b3-b8c1-4119fff132f6,M,2021-03-24 13:21:01,PSE,Mazamorra ,postres,$ 11.500,3.4
+53,1a4d8e7a-7e41-48b8-b69f-5bd48ca124c4,M,2021-04-25 09:22:36,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+54,6c778195-5a60-4221-9790-12c40be59f55,F,2021-01-03 18:26:16,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+55,36d71034-8418-4451-89e7-aae6caa87bae,M,2021-04-02 04:24:11,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+56,a56851c1-105b-46fa-80a4-faf68c5c6d68,M,2021-07-05 09:56:42,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+57,e4e95adf-a360-4156-918a-8e212d6add38,F,2021-10-30 02:11:13,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+58,4c177e65-87b8-4026-93f9-e93d850b760b,M,2021-07-11 10:22:37,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+59,f1aa3779-fad8-43d4-9379-1514ea30c6e7,F,2021-01-02 12:08:50,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+60,85d5a3e2-163f-46a0-bfaa-e7f6e64e7366,F,2021-05-03 15:22:38,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+61,7c28ca2a-15ce-419a-841f-405233328082,F,2020-11-21 17:43:04,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+62,a9710f5d-af9b-432d-84fe-685e9ec782a4,M,2021-08-14 18:43:07,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+63,c5b9d2ea-ecbe-453f-b711-1aa0e86b9d58,M,2021-08-08 09:48:44,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+64,24c26bf2-16a3-4cca-bda5-34c3e4631c59,M,2021-06-11 21:10:50,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+65,f9a256fa-981e-4944-ade9-af713122ddf1,M,2021-01-12 14:42:15,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+66,875d46d5-9713-436c-bd64-c03bfb6adb54,F,2021-01-24 12:57:26,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+67,2f2f4ef3-9fdd-488b-8bc3-53daf5134699,F,2021-07-09 12:03:06,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+68,bf17a52d-9d44-4aa6-8acd-561d1df48a8b,F,2021-01-24 03:15:08,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+69,197e13fe-f595-4b84-9abf-874f7538e217,M,2021-07-01 18:53:20,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+70,3839c510-c193-4947-b296-44ab02b08b50,M,2021-03-24 17:01:13,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+71,145c8543-5e8e-4df5-be36-bf9444ecf01f,M,2021-08-10 08:06:32,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+72,82497818-4d0d-479d-916f-e89f65491410,F,2021-06-09 05:07:54,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+73,9983ff46-64df-474b-ad70-49c4d290044c,M,2021-09-23 09:37:24,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+74,57b2f11d-6ea8-41c9-8a3d-9a8b1f74564f,F,2021-04-20 00:02:38,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+75,04e8baab-4835-4f2c-9ca3-ae1ff192e6d5,M,2021-08-20 03:27:09,CREDIT,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+76,0ab4ead6-f655-44f6-baa4-c1a7cfab65d2,M,2021-07-09 21:45:07,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+77,6c417c94-51a4-42a3-9a0c-d76e52447d7f,F,2021-11-17 05:31:15,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+78,5bd9e632-29d1-40e0-b968-8604dad512c5,F,2021-02-17 16:50:39,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+79,8e86d290-0766-40b0-b76c-55219c2622b6,M,2021-05-28 19:18:22,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+80,9ea82568-c078-483d-b0f9-21a08b3da937,F,2021-08-09 00:01:45,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+81,9f6fca45-e776-4440-99f2-5aa73beea612,F,2021-05-18 04:52:18,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+82,2ea1bf7f-5eec-4447-9454-88a30b443d84,M,2021-01-18 10:42:02,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+83,7520c2b2-6e12-4367-9cfb-4e1cfb8e4b8e,M,2021-05-13 21:43:07,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+84,f2e8a751-0464-4b45-beb2-dfa659163727,F,2021-06-04 20:22:54,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+85,70a29542-f9dd-4343-8773-26ac9e14d30e,M,2021-05-27 14:16:41,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+86,e20e07cb-3c82-4346-bf06-525180ebf04a,M,2021-03-08 18:42:48,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+87,7f2090c1-23ed-48ac-91f6-c67fffb56a1e,M,2021-10-18 04:05:42,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+88,2450848d-3fc6-4a57-9617-a485cb9473af,F,2021-07-21 18:14:09,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+89,cbee9fbd-6880-4160-81e2-77ca7ac98342,M,2021-09-04 02:50:31,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+90,9a126bde-f0c3-4c71-8d4f-523d30ae1c04,F,2021-01-28 21:24:26,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+91,200b5f48-05dd-4e3e-8819-bce18453518b,F,2021-08-15 11:11:41,PSE,Salmón ,platos-fuertes,$ 54.500,4.5
+92,e1cfa536-362c-4b55-9832-9e5f2a27d04c,F,2021-07-25 04:48:57,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+93,c3bd6310-136a-4c22-bd26-512bd61d62cc,F,2021-03-10 19:53:35,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+94,6dade5c4-a026-4c67-b506-1c7deba57ec3,M,2021-07-22 12:53:43,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+95,58868e9e-d634-498d-90f8-25955d90603c,M,2021-11-18 16:31:59,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+96,e0edff72-1801-4630-a5d1-9da2962d7114,M,2021-04-03 11:14:40,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+97,20e8db4f-890a-4d05-94ff-e3c54f1b8502,F,2021-10-19 12:15:48,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+98,a42d9dee-abab-4256-a96b-330e9b4aea1e,F,2021-03-15 09:50:54,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+99,e6c09c89-4be7-4d75-9a0a-067fac0e12b3,M,2021-07-15 22:53:46,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+100,ce867e8d-4259-4c3c-81bb-6f2eb0ce4b38,M,2021-10-09 16:51:08,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+101,6bc23563-f3c8-4215-8fd1-072ea5f45453,F,2021-08-02 03:50:06,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+102,96ff0c85-9cd5-4876-8270-85cc29191892,M,2021-07-26 17:00:48,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+103,4c7a0521-4bad-41d6-afdf-01de8fe9bf8d,F,2021-03-28 23:12:45,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+104,416ba383-60b7-4662-a892-2bc79f0bb5e8,M,2020-12-19 20:39:58,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+105,57e6fba1-4763-4dc6-a0cd-290e59af8f3f,M,2020-12-10 04:16:38,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+106,0668498e-d0c5-459d-81d9-17c47bd189e9,F,2020-12-09 13:49:52,CREDIT,Aperitivos y Cocteles,bebidas,,3.0
+107,e9c5a721-8a5d-460c-a952-81fa406c5775,M,2021-01-20 21:33:35,PSE,Vinos,bebidas,,4.6
+108,acd14723-1aa2-427f-9369-d18c831eb034,F,2021-04-27 23:08:11,PSE,Cervezas y Licores,bebidas,,3.7
+109,84ac9f25-dd43-44ee-a7c3-c44dfe9932ec,M,2021-02-19 11:57:21,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+110,33408924-9347-45e9-a14c-fd57db809c55,M,2021-04-25 15:01:55,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+111,b3f60526-1ce8-4e42-9976-80fdd37f8c20,M,2020-11-29 10:58:23,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+112,fd74d364-0238-4b86-bf36-ba375933292d,M,2021-09-18 07:04:39,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+113,27aa460a-0010-444f-913f-835fc0f69a7b,F,2021-11-19 09:05:48,CREDIT,Brownie con Helado ,postres,$ 13.900,4.2
+114,b343ccfa-4f0a-4dce-a2c4-e627ed4e688a,M,2021-10-29 00:54:13,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+115,fb4b145b-0514-4982-a22e-977316a351cc,M,2021-03-10 05:49:40,PSE,Mazamorra ,postres,$ 11.500,3.4
+116,90e9dd17-cb75-4fce-9fa7-d6c27435c325,F,2020-12-08 10:49:42,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+117,bfd26552-84a6-42df-a223-0f17d3e6f7f1,M,2021-05-26 15:59:40,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+118,ebe6f7bd-dec6-4d19-8e71-6bca425b7b69,F,2021-03-31 05:49:26,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+119,42ba6d7d-5fe0-4d88-a289-73859557f502,F,2020-11-23 01:29:45,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+120,70402a3f-183a-407c-9cad-672c53c087b1,F,2021-03-11 14:08:24,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+121,c3ba97c3-7f63-44c0-8b62-5bfa759f0ba9,M,2021-10-20 03:37:52,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+122,0a2ae484-21cc-460f-9099-dd658a379ac9,M,2021-09-15 13:57:29,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+123,4953cecb-1cbd-4116-b48e-56ac1c6f07cc,M,2021-10-29 18:19:29,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+124,5b504606-2d87-4c28-a4fd-419499fe4831,M,2021-05-20 23:12:36,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+125,083c77e8-2dd4-4576-8a68-b812123e3f12,F,2021-01-01 07:04:48,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+126,3ff23e33-f7c2-4777-8a98-2cec8aef1e88,F,2021-05-03 23:06:28,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+127,3e583a6c-0901-4951-b9ec-b84e0a60cc22,M,2021-08-07 19:54:54,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+128,745b7754-45c4-455e-b208-122117117663,M,2021-05-24 22:55:04,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+129,0a766535-8896-4735-9f93-378715db6abc,F,2021-11-19 18:28:33,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+130,6964846d-6463-4852-a106-cc74663e53c6,F,2021-03-26 15:28:41,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+131,18aef6b4-2d20-4e9c-91d3-b8600bd2f512,M,2021-08-22 23:55:13,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+132,a4662ef9-ba85-42b3-acf7-e74320c6a8b8,M,2021-02-11 17:53:35,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+133,657cee0e-2cea-45c5-92ca-348d21cae49e,F,2021-04-11 22:06:24,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+134,028a64d6-bc2e-41bb-9f18-9d4e6b11bfa1,F,2021-01-27 17:09:08,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+135,fd5027c3-2bf8-4b1f-8dc4-bb9633645a70,M,2021-01-16 21:41:13,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+136,22e22ad5-6f80-4faa-8571-7c28b0280ca2,M,2021-04-19 09:35:47,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+137,a723859b-bf4e-4d69-9060-4fef1628dea6,M,2021-05-07 07:06:20,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+138,631876af-5d8c-4a02-a720-c601fe3a8e23,M,2021-06-20 15:08:08,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+139,7de406ec-a922-4498-971c-3f84698865f9,M,2020-12-04 19:18:09,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+140,abbdd6f8-94ed-4255-94d2-478b5c16f47d,F,2021-06-14 17:00:14,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+141,a815ba7f-33df-411b-a952-8bb6cbd9ac32,F,2021-07-07 08:34:29,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+142,165ec8f2-e09d-4f20-bae4-415f8e76e6ae,M,2021-08-29 11:35:18,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+143,4b39cdd7-d74f-468b-98f6-8f7df07b82c5,F,2021-06-06 21:09:42,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+144,ee605b75-29b1-4f5b-a589-d8b2c17a7bbd,F,2021-08-18 23:18:44,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+145,d914665b-f51f-4c30-89d1-c0dc427257ab,F,2021-10-09 02:30:10,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+146,530ce2ca-ed98-45b1-8cad-1090911c7a77,M,2021-05-27 09:16:49,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+147,075051b8-f0e6-47b2-b855-ab745964a030,F,2021-11-15 20:39:46,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+148,f82465ad-e860-401a-a4ca-4e776047a73c,M,2021-07-06 23:16:17,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+149,b55bb1e8-9d76-4829-87a7-c315dccd4225,F,2021-05-10 09:15:25,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+150,c6344132-4c14-410a-92fe-2aab6a166f49,F,2021-11-18 00:24:44,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+151,995893a8-f5b7-41de-9461-8c5a4c841867,F,2020-11-25 20:13:11,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+152,08c4249d-4ea2-4e28-a64b-3a43657c24c6,F,2020-12-11 15:31:28,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+153,b5b3991f-f5d2-4dfd-aefa-907160d16c95,M,2021-05-15 14:52:03,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+154,d2104ca4-788b-465a-8895-ccdbb3148426,M,2021-01-15 05:23:50,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+155,0fab9e9c-663f-44d0-b238-023d551d4834,F,2020-12-31 01:21:30,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+156,976fe793-6758-4611-87e2-2341d729f58c,M,2021-02-23 07:55:15,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+157,e25c6550-b7b7-4bb8-bf38-3a0f801b670e,F,2021-08-16 03:30:51,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+158,7e7d8777-8864-456a-80b8-1bb7317207c0,F,2021-06-11 08:46:05,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+159,fc009e7c-dbf8-4da1-9323-903b3bd9bb33,M,2021-09-06 04:04:44,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+160,7ca1c077-306d-437c-83da-114f118dec85,M,2021-02-28 08:29:19,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+161,60ad1335-c7f8-4580-8060-839311983b40,M,2021-09-21 05:47:31,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+162,3cbc66a1-641c-437b-9c37-a28ac60b9f12,F,2021-04-26 03:41:53,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+163,c8fdccd8-93ba-4285-8933-2f5ad430b8de,F,2021-07-16 12:37:56,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+164,438fcdc3-3b32-4ce9-9cce-8777cf2151a7,F,2021-04-04 01:16:48,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+165,cf4af6b6-6ef2-4adf-91f5-4ba7402be7a7,M,2021-09-10 05:29:29,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+166,415c6df3-4178-4930-85c1-c2c221d56a8b,F,2020-12-21 09:16:55,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+167,74ce557f-0176-44cf-a562-c7285b084d10,F,2021-06-04 02:13:26,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+168,19969291-d255-4aa9-b8fb-0fec323dec12,F,2020-12-05 14:20:50,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+169,12d37031-7700-4a50-ab95-81e4dea835d7,F,2021-03-09 06:42:32,PSE,Aperitivos y Cocteles,bebidas,,3.0
+170,35f3f28c-4478-48aa-b626-0962f6cb7a85,F,2021-09-20 10:24:14,PSE,Vinos,bebidas,,4.6
+171,b28414e3-bf82-436e-8c80-8d422ea901e1,F,2021-02-27 10:27:13,PSE,Cervezas y Licores,bebidas,,3.7
+172,358f0277-f9db-4da6-a082-106815f23401,M,2021-05-09 20:54:47,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+173,f47132d6-7019-43f1-917c-9378a5604282,F,2020-11-30 18:24:57,PSE,Flan de Leche ,postres,$ 13.200,4.4
+174,844d1931-e2c6-4dba-a526-fdc3fed5eb06,F,2021-07-05 02:22:35,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+175,6d8e5fe7-8807-4432-ad54-fdee6d141ce0,M,2021-09-29 04:15:02,PSE,Postre de Milo ,postres,$ 13.800,3.0
+176,7ccf6ccd-e5e2-421c-86da-214ca0bb1574,M,2021-04-08 07:34:16,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+177,bbb76aae-e421-428c-937a-b192a7741a1a,F,2021-09-06 20:33:39,PSE,Postre de Natas ,postres,$ 14.600,3.5
+178,e1a9fe5e-0308-401f-b8ae-62b910b39a8c,M,2021-04-18 11:51:21,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+179,7896c1af-3f12-4fab-b896-942bfa46e24e,M,2021-06-07 08:16:34,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+180,6912b415-97d8-4b1e-99eb-56d83a06df85,F,2021-04-24 00:52:44,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+181,8b610408-8709-4b81-9b9e-cc2945c15c2a,M,2021-06-10 00:21:47,CREDIT,Calentado con Solomito ,desayunos,$ 24.800,4.5
+182,024ef052-b98e-47bc-93c8-427037925478,M,2021-01-30 10:41:31,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+183,b71ada61-5765-44a4-94d5-de36051f64ec,M,2021-06-20 18:00:39,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+184,b7d08537-f90e-4f2d-b170-9596bb0fd5e0,F,2021-09-02 05:46:29,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+185,45c35697-03a4-434d-8668-e93e30eb7070,M,2021-03-30 18:21:55,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+186,0dd2d710-4d43-488c-80c9-a6353ea51de3,M,2021-08-16 02:27:39,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+187,2d368c64-7427-4ce5-a5fd-cf2cd6ef443f,M,2021-05-05 17:51:47,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+188,17146497-2c18-4ee2-ba19-54c93b8b0bc0,F,2021-07-26 23:25:33,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+189,dd3a66a4-6a2c-4f60-869c-e3d295ddecee,M,2021-05-13 15:55:20,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+190,09e8bdb4-e2d8-4f4c-b6c7-6b9e14e65c68,F,2021-04-08 19:34:32,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+191,474adb26-031f-4901-ac36-e20ef1511744,F,2021-06-08 22:26:32,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+192,95e5c216-0278-4e5d-9925-12019d64a4a1,F,2021-07-08 06:29:58,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+193,6a1138e2-b1f1-4f7a-b649-ca6a1060386b,F,2021-07-12 08:20:25,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+194,05b90afb-39f1-4f69-b575-6f43a77604a5,F,2020-12-20 23:28:39,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+195,e514b86d-df86-48aa-89b5-aa803b104e99,F,2021-08-29 19:10:47,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+196,9fc8aae2-bf2b-44fb-a635-5f46dfe34378,F,2021-05-19 04:07:28,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+197,1cdd08b0-8268-48c0-bbe4-5396bae61acb,M,2021-04-05 14:39:09,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+198,abcb9709-ef43-426b-94bb-d3af259e80a2,F,2020-12-30 03:19:25,PSE,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+199,abca6863-5d26-49f3-9cb2-353690ba2c4f,F,2021-03-14 23:23:44,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+200,6e3b047f-e892-4f6c-806c-cd3c8e761837,F,2021-02-23 03:25:51,CREDIT,Ajiaco ,platos-fuertes,$ 35.500,3.5
+201,47354135-cdd3-4f89-a674-8293fb694146,M,2021-09-02 08:26:56,CREDIT,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+202,b753d4a9-dc85-4ba4-950d-e069b20f1cf4,F,2021-05-18 16:35:40,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+203,d865c860-c2d8-473b-910d-2b268308060d,F,2020-12-15 22:53:33,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+204,7e152232-6904-4fed-9ba9-07cc08958852,M,2021-04-03 21:58:17,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+205,7cd78334-3362-459c-b886-9e2c6721a694,M,2021-01-05 07:13:45,CREDIT,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+206,b73d12e5-b2d0-4bde-b452-ad014cfadf1d,M,2021-11-04 14:29:18,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+207,39f4a328-21a9-4626-a839-c9c1af22dc23,F,2021-10-28 03:37:29,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+208,0d72c427-d539-487e-ac77-d6104f58a924,M,2020-11-29 22:27:21,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+209,47b14bd5-1116-4a45-a654-32f8f439466a,F,2021-10-12 19:05:41,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+210,48ba7cf7-ac0e-48e2-a4c0-072de1b4e9ab,M,2021-09-03 11:20:03,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+211,e076a092-0b83-40cf-918e-f02d94708bdb,M,2021-02-24 02:00:36,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+212,a07699e8-13c1-4c2f-8e74-7636b6bf9cb3,F,2021-03-08 17:27:27,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+213,f512e756-525b-4453-97e2-96e800c1b2b4,M,2021-05-26 12:59:12,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+214,972452ec-a123-47c0-a0cc-514b040f22ab,M,2020-11-25 10:15:57,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+215,01f3f51d-dad5-4888-9a3d-57fdd2dd3cb0,M,2021-09-19 21:12:00,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+216,b413482b-60b7-4652-be94-73106c38bf35,F,2021-08-20 08:10:06,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+217,ceb1455a-ee66-4e8c-ab66-2cffdf5accec,F,2021-04-16 15:09:05,PSE,Salmón ,platos-fuertes,$ 54.500,4.5
+218,142ca0d9-cdc5-45b5-8e22-f2b6c7d7cdc8,F,2021-06-24 19:57:08,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+219,1251ea44-bb1b-47f4-a0c9-03f330b3282c,F,2021-11-20 17:36:18,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+220,65a5a640-0bb6-4509-a486-0cb50a5b5856,F,2021-07-10 10:26:54,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+221,3dc2960a-b925-467c-9298-8805c433abe7,F,2021-01-26 08:31:37,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+222,ac629364-d385-4c78-a640-c27e0114bcef,F,2021-06-08 05:05:57,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+223,c1b63826-1369-42d5-b568-cae440cfa847,F,2021-02-16 01:47:54,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+224,caba5dd4-af09-4496-a526-45f8676aa3e9,F,2021-05-29 03:05:09,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+225,86a070c1-4e58-4d43-bb04-76c263e2df24,F,2021-06-07 19:05:56,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+226,68f3eb5a-1fdd-4da1-b1d3-708695e0fdd7,M,2021-08-11 11:17:30,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+227,d4e78022-0dc6-4bd7-ba48-fa29883a3b45,F,2021-06-04 10:00:26,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+228,c2b2ae9a-9307-4908-b5dd-5f7f802b3919,F,2020-12-07 12:07:15,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+229,d66dd637-abec-4a61-9aa8-6092e4c6ba9c,M,2021-06-14 06:51:22,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+230,fb825b7d-d61d-42a1-8a7b-68404eea9549,F,2021-02-16 11:04:55,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+231,c9d9d088-5018-4663-bb83-a872046765ee,M,2021-09-24 19:48:39,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+232,646be0c9-14e7-430c-94e4-d41d994c50b8,M,2021-09-05 18:50:06,CREDIT,Aperitivos y Cocteles,bebidas,,3.0
+233,bbb3788e-de12-4321-b5e9-f53a14391e7c,F,2021-11-04 16:16:51,CREDIT,Vinos,bebidas,,4.6
+234,9dbc319c-51f6-43e1-b1a4-08635b3cf9d1,M,2021-02-07 00:12:56,CREDIT,Cervezas y Licores,bebidas,,3.7
+235,2e79980b-ad82-4a11-815c-a5a723a20411,M,2021-11-20 16:33:09,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+236,850bb540-a492-4c87-91d0-5255ca862056,F,2021-04-27 02:10:31,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+237,31ed4f3c-8b90-47e1-9ba3-b93f30244828,M,2021-03-11 15:27:45,PSE,Postre Típico ,postres,$ 12.000,4.3
+238,4702a983-5e8c-4ad6-82a9-555944d12679,M,2020-11-27 07:01:42,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+239,7ef21158-b100-4de7-8c03-dbdce44ab5a2,F,2021-02-25 02:18:39,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+240,55dffb4e-52a7-4c8e-86d1-073c21f31379,M,2021-09-01 06:50:34,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+241,e6c67534-6a74-4cd7-9f8b-7dc97ca3a75e,F,2021-10-11 18:44:58,PSE,Mazamorra ,postres,$ 11.500,3.4
+242,719860b6-ab4d-4d35-9750-985a881f59cc,F,2021-09-08 11:50:28,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+243,872f70a3-a097-48b7-b891-0d42bdf469d8,M,2020-12-23 14:18:39,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+244,f8a6d74f-ed75-4385-a33c-17d6ffce6422,M,2021-09-06 12:42:13,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+245,9d1f0bb8-50d4-4dff-a58c-dcee5ad11289,F,2021-04-10 01:48:13,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+246,58bec649-5c9c-4874-a7f3-2a2dc3e68bc7,M,2021-02-15 03:07:48,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+247,2c35971b-868c-4b34-b311-880b26dd1f9c,M,2021-04-10 22:16:31,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+248,fdab38d2-9c41-406a-8fbb-ffe8bf95ff4a,F,2021-07-07 13:17:13,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+249,b1ff7677-009d-446a-8fe8-bc746ac7c69e,F,2021-06-27 15:37:58,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+250,db445410-794e-475e-96df-d8f5879daa5b,F,2020-12-04 20:32:42,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+251,aa85de10-6acc-4c29-b2ab-505144368375,F,2021-07-09 04:40:49,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+252,3aed7c6b-fc89-4039-83d7-b817afc40b26,F,2021-09-13 05:45:30,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+253,1e5280e5-3e32-4aba-9fa9-b495f5c0c607,F,2021-04-26 20:42:10,PSE,Chicharrón ,entradas,$ 22.600,4.9
+254,4650c7c1-e43c-405d-ba5b-3d1b8b8a913a,F,2021-01-23 19:58:37,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+255,34d0f3cc-11d9-4927-b086-4366ba1d0d79,M,2021-06-24 16:38:55,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+256,13068a38-ca5d-4db3-9cc2-dde3f2e15cdf,M,2021-10-25 07:21:57,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+257,6942bcf7-e61f-45b3-941f-048bbf3712d0,F,2021-09-20 19:37:45,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+258,7313602c-39b7-4c36-bb94-b3c2daa1fe72,F,2021-08-27 00:58:54,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+259,b4bd73ba-6c3e-4a19-aa92-06663b3eae97,F,2020-12-25 13:57:32,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+260,eb66dfbe-0a94-49ac-af88-2588fa04a1e0,F,2021-07-30 00:58:54,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+261,b14182d9-c59f-4be1-aff1-a21fb280fd02,M,2021-07-01 03:22:59,PSE,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+262,31e44752-9f3c-47a0-8fd6-0c8abc96aac0,F,2021-10-26 06:04:31,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+263,49391f49-7167-445b-8fd0-60f488c19d11,F,2021-07-03 17:17:19,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+264,7954de36-9262-4896-a4ed-c1f3cbdd5687,F,2021-10-27 00:04:16,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+265,91fc9c93-03f0-40e5-84ca-26ff58d6339a,F,2020-12-11 15:35:08,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+266,643f332e-0e6b-4300-9237-8319abf05fd7,F,2021-06-14 03:10:52,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+267,51005c1c-0112-4fb7-bb6a-5215efc26b5d,F,2021-04-29 10:40:01,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+268,41b99289-25de-4e01-a62e-ec632f78e9d9,F,2021-01-21 21:34:27,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+269,078bb42c-9ffd-4bab-a81f-4eabfb7f99d4,F,2021-02-17 23:40:46,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+270,3039d46d-7ec3-4a41-9fd4-2a96002a09c1,M,2021-02-13 08:50:21,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+271,a48bdc9e-833f-48b5-8136-ebb087f1bb18,M,2021-07-24 22:53:09,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+272,12443360-6e81-4a7d-a020-90b7ae21b458,F,2021-01-13 07:12:27,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+273,9f5976d2-da52-4b9b-b42f-c72c309be2e7,F,2021-10-06 12:16:30,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+274,df869cb8-bae6-4d0e-9d61-834a2f2481ea,F,2021-05-31 13:50:34,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+275,cf815d02-2abd-4ce4-a59a-d22d04346175,F,2021-08-24 03:00:23,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+276,6048b492-cd41-4b0d-8c44-154c020ef915,M,2021-11-03 14:43:46,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+277,2393f7f2-8e05-4be5-82b5-7d14c305334e,M,2021-07-01 17:00:02,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+278,15a72194-6180-4e12-a1c1-afdee3edda8a,F,2020-12-03 14:15:08,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+279,ad69d6d0-8913-4d0b-ac71-7d30926713fc,F,2021-02-17 18:21:21,PSE,Trucha ,platos-fuertes,$ 37.000,3.7
+280,777f3eeb-c0b5-4665-95f7-835ddeffb4e4,M,2021-03-25 07:31:50,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+281,b8af0cc4-cd15-4371-bc7b-a5799b20df8e,M,2021-04-29 19:50:30,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+282,7c22dac1-bc2f-4c68-ade8-6cc577ecbbee,F,2021-05-17 10:17:48,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+283,82f491eb-fbf9-4e4c-91e5-4709c3a6327e,F,2021-10-14 16:00:02,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+284,d0dc3042-50e3-4d71-be58-db04505a6d06,F,2021-08-22 03:20:54,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+285,44642029-781e-4187-8813-cc8802314a84,M,2021-03-25 01:01:41,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+286,2b371fdf-34cb-4df7-bfa9-352c6eae3113,M,2021-04-10 20:42:30,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+287,c9302be3-2ed5-4f42-b976-8717aab3482d,F,2020-12-04 05:12:56,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+288,f4b4bc33-e294-45ec-9ac4-698fa2a057ba,F,2021-09-11 08:55:07,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+289,c3c0a77c-0d02-445b-9ac1-2c01e36a8b6f,F,2021-01-15 12:44:13,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+290,f8601e5a-079d-4d74-adc4-b7d99900a48b,M,2021-11-10 01:47:16,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+291,920e382f-84bd-4f1d-a070-2a25b5986f1d,M,2021-02-02 21:32:14,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+292,2cacc2c7-7aec-4c79-ba4a-306cb927d54e,F,2021-01-26 21:55:44,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+293,68f8a48e-27cd-4cee-aa49-bb43b003bc4c,F,2021-02-10 04:22:33,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+294,42e9531d-6113-470f-8327-317c3f384346,M,2020-12-13 16:45:17,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+295,cd80a066-b931-4e1b-91f2-dc74322cfce0,M,2021-07-07 10:38:02,PSE,Aperitivos y Cocteles,bebidas,,3.0
+296,655d2059-dbce-448f-af4f-4b9b10da0366,M,2021-08-22 10:05:03,PSE,Vinos,bebidas,,4.6
+297,a8bf1e21-259b-482c-8606-10fa8d236223,M,2020-12-08 16:19:40,CREDIT,Cervezas y Licores,bebidas,,3.7
+298,56795c38-3746-4ed5-b8c1-fd6fc080193e,M,2020-12-07 19:03:26,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+299,6ac8abfa-5f2f-4457-b2e6-f4ef0fe1aaaa,M,2021-01-27 21:32:35,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+300,4fa6eaed-7de8-4f3b-b54e-9c20c5fa9eaf,M,2021-08-14 01:02:48,PSE,Postre Típico ,postres,$ 12.000,4.3
+301,abc2fdf8-76b8-4c7c-95ef-646767972ee3,F,2021-01-30 07:34:05,PSE,Postre de Milo ,postres,$ 13.800,3.0
+302,2bbc22c5-4553-4187-ba3c-fc40bd43e87c,M,2021-05-19 04:47:35,CREDIT,Brownie con Helado ,postres,$ 13.900,4.2
+303,3699a093-a661-4b67-9bb3-56e466ed5ede,F,2020-12-26 03:54:27,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+304,5d3b57a5-45f3-4c52-b2b6-aa9431f41963,F,2021-05-11 12:44:48,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+305,00d60897-cee6-4c8c-8782-f362e7310e91,M,2021-05-02 17:40:58,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+306,971d81f6-14e9-411b-a5eb-f3614fb0f72e,F,2021-01-01 03:36:47,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+307,b4b091ac-435f-473d-812c-042237820dc7,F,2020-12-19 14:56:06,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+308,180b799b-0e8d-48b7-955c-fe2b49b8603c,M,2021-04-16 04:41:48,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+309,85c0b100-5f6e-4c05-b8a7-01a0753fd61c,F,2021-11-11 09:03:04,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+310,822d4c19-10d4-4a1a-a70b-77b4219b6cec,M,2020-12-19 14:58:42,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+311,513fd267-7b7c-4fed-a1e6-6fd28ee3e275,F,2021-01-08 22:00:45,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+312,f7d3a1e1-5f89-4830-a001-8bd77820b297,M,2021-02-26 02:14:53,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+313,376b786f-6758-4884-9811-d39a1f6d251d,F,2021-11-06 20:16:51,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+314,09937c40-bde5-4cca-bcc9-80b23a34d2b8,F,2020-11-26 03:16:13,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+315,18c0c3a8-061b-43c6-b8f2-98ea13456b3d,M,2021-04-22 05:38:05,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+316,abbbddb6-58b6-459c-aaeb-c8d182ff6446,M,2021-09-04 09:25:52,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+317,48035c9d-45ba-4845-ba4f-42c93221a25c,F,2021-08-07 21:12:23,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+318,585b713d-c3fd-4674-b8d2-1d65f947f639,M,2021-11-06 15:22:40,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+319,ba81f9d6-d7b6-4dae-8cdb-aa6c64fee413,F,2021-03-10 09:38:55,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+320,4c6a7c4a-e961-4ac6-b03c-d832d1e5ee6e,F,2021-09-10 05:16:29,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+321,8f5cdb42-ceb8-4e06-996d-4ecdc810f857,M,2021-07-08 17:37:00,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+322,05471db6-1387-4d52-a9f4-dcc36de6309c,M,2020-12-13 03:53:09,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+323,3509e1fc-3551-4aab-add5-31c4737760bb,M,2021-03-27 08:04:56,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+324,2bc6f752-9063-484b-a650-f0176db1a6b4,M,2020-12-21 20:42:50,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+325,e50396e0-c913-4e88-a5bd-be2192f8fc46,F,2021-07-31 11:06:37,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+326,4db443a3-7828-489d-883c-6aa0cc56b233,M,2021-08-15 06:59:37,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+327,010f1658-5ca7-4f16-a409-91afbdc4b709,M,2021-01-12 02:47:44,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+328,d8d723e3-f2bc-4a1e-9aa4-ab16f5d5c82d,F,2021-10-28 10:33:53,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+329,c702b0a6-2f3b-4791-986f-eb3dce1281fa,M,2021-01-29 20:57:26,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+330,b4696d24-716d-4dab-8a85-a34e62ebd5a7,F,2021-02-04 22:11:17,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+331,c5ee3f87-a67f-41de-888e-091950b39ce9,F,2020-12-04 09:50:42,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+332,4b1da82f-5f23-4762-b863-bbc66894af30,F,2021-08-13 07:53:06,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+333,8b05938c-8937-443b-a468-b22cff241990,M,2021-06-13 09:59:04,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+334,c7aba390-9b5f-46b2-b964-efe4fecc41a9,M,2021-10-18 14:32:26,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+335,d0386adb-5cf9-4d19-8325-ff2948345cbc,F,2021-04-28 12:06:49,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+336,0c1f6648-5e0b-42c9-b37f-78b951b285c9,M,2021-06-27 19:52:14,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+337,674d3be6-24c2-4d01-87f8-662698f91899,M,2021-01-12 01:45:30,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+338,0e9d3b5d-c43d-41b6-9fdb-585aba714e3c,M,2021-02-06 04:16:29,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+339,6d6ed0e4-5ec3-4a6f-9096-072f9a7f1508,F,2021-04-24 05:58:35,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+340,f117f087-dd82-4d1b-9134-6e2e62ea777f,F,2021-01-05 07:14:18,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+341,986af1cc-a834-4bc7-8995-3e27317045c3,F,2021-10-02 02:42:15,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+342,f37e9e66-4cd1-4a23-8cb8-a671017c04b4,M,2021-08-17 21:39:53,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+343,38dbc245-a21a-4bec-b578-70ce409f0457,F,2021-05-12 13:52:04,PSE,Salmón ,platos-fuertes,$ 54.500,4.5
+344,33162dcb-afed-4d84-b154-5a8b2f58cb6e,M,2021-11-06 20:02:21,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+345,c3660309-f99c-4823-a6cd-d629a17fb986,F,2020-12-18 22:14:08,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+346,bef5a74a-fcd8-4153-8b47-a6d22028bdd5,F,2021-02-14 15:32:06,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+347,16e2a4c1-eae3-4538-9418-e871f711ebd6,M,2021-02-23 14:12:38,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+348,b4b94b03-c048-42df-9474-0009416d0f65,M,2020-12-20 16:56:05,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+349,844e518e-3465-463e-8f42-d9463c47f32d,M,2021-04-06 15:20:14,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+350,0dafbd1e-afce-47d3-8cd5-ebd3005422f0,F,2021-05-03 03:24:33,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+351,287f4d83-6852-45e0-b1c9-0848dd82df66,F,2021-06-05 11:44:53,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+352,704f19f6-39c4-4cff-b46f-a919d98b7ae3,F,2021-02-20 22:52:12,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+353,ec39822c-7bc8-4b48-b3ee-0e96f4a65ba6,M,2021-09-22 23:19:21,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+354,eb5d989e-2e72-4d7e-a7b6-8307a8463875,F,2021-10-10 11:00:36,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+355,e98bff57-0449-4742-9593-7af1819b77e4,F,2021-02-07 06:09:07,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+356,caeb368f-56b2-4e79-9995-649b8bddd958,M,2021-02-20 11:32:59,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+357,3833b91e-5f0f-4030-b753-f41235b733ce,M,2021-05-22 11:41:42,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+358,4f4c0eb8-eb71-4311-b49f-f9630510d46d,M,2021-03-27 10:41:44,PSE,Aperitivos y Cocteles,bebidas,,3.0
+359,0c9eb864-c7ad-4535-84ad-4e2561ccd3fa,F,2021-05-23 00:02:30,PSE,Vinos,bebidas,,4.6
+360,6e816109-6681-4111-88c7-a5f1b17f6f8e,F,2021-09-27 03:50:07,CREDIT,Cervezas y Licores,bebidas,,3.7
+361,de8c704d-6655-4fd3-97e2-9ecf0ce713ec,M,2021-01-06 10:41:50,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+362,182da646-0ba7-4747-a4cf-efb1c052899a,F,2021-10-21 14:14:42,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+363,d416b0e0-635e-4074-8a83-2a459acbc582,M,2021-05-17 17:35:51,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+364,d291a3cb-ed2b-40eb-a554-17100c8153b2,M,2021-11-13 14:58:49,PSE,Postre de Milo ,postres,$ 13.800,3.0
+365,6f9d9073-f965-4e12-930b-a08bd5d9a138,M,2021-02-11 19:42:31,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+366,d965ebe6-59b3-4ea2-9b6f-33667c754c90,M,2021-04-09 18:08:13,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+367,29a64e75-1380-479d-963d-46c073134456,M,2021-02-23 11:18:35,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+368,06b3681f-47c9-47a6-82ec-88cfa9f0a578,M,2021-11-07 13:11:03,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+369,57b61561-2289-4687-ba42-25d269c7638a,F,2020-12-07 17:37:21,CREDIT,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+370,46f2a305-02c6-4a44-8d16-a87eee1e5334,F,2021-11-06 02:26:29,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+371,83017308-2347-4831-8d43-54b4122baae0,F,2021-01-16 16:32:29,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+372,9fe14599-798e-4b02-834c-6da5938bea97,M,2020-12-25 17:01:56,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+373,20f8dd53-715f-4def-bb19-62920416b52b,F,2021-10-05 12:48:46,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+374,0a8103ec-3efa-460f-a675-1ea66f6f35dd,M,2021-10-10 05:37:30,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+375,b8d54f73-89a0-4d01-bfd5-21dd8c1d49bb,F,2021-02-28 07:47:49,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+376,e65e4ccf-0018-4a7a-847a-6302046fcc61,M,2020-12-11 00:48:58,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+377,8ee08b16-5419-4aeb-b396-40d16ba85d5d,M,2021-03-04 08:42:03,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+378,090a0130-0464-40ad-9a30-24441cbe2358,M,2021-05-18 11:46:17,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+379,ebd13b1c-bffb-43ee-a5bf-a4c8561bde15,F,2021-10-26 21:48:53,PSE,Chicharrón ,entradas,$ 22.600,4.9
+380,5ace5eaa-edfb-4c3a-a5cf-cd40ac0fd14e,M,2021-09-03 14:15:02,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+381,60df7df9-8a12-433e-9a93-f0d652fe692f,F,2021-09-22 13:25:06,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+382,dbe04c18-5a03-41c7-affa-7c6e0f5d3e41,M,2021-04-08 15:30:25,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+383,c4c2bf8d-b5d6-4d20-85a8-f912cf761b11,M,2021-10-02 18:03:19,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+384,1dfdd5a8-c4df-42a0-b687-8c609c36516a,M,2021-08-20 03:01:29,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+385,d3cc21d9-dddf-44fc-9ca1-84964567998b,M,2021-01-31 06:23:47,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+386,c2fec1e9-d981-4b7f-90bc-646c76c82a6d,F,2021-07-27 01:10:11,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+387,8bdc6934-1f70-4ec0-be77-a7b0bf10ca1e,F,2021-07-21 21:49:32,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+388,bef9c591-6ead-4f1c-a2bb-e708753beed8,M,2021-09-23 16:30:13,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+389,f3d33481-1985-48e8-9857-3f608ea4de9c,M,2021-03-16 20:35:30,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+390,1a0139b5-b1de-4cd4-a017-e3255c288819,F,2021-05-25 15:35:07,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+391,86c3cbfc-cb7f-4f85-bdb4-5ba812b64411,F,2021-11-12 06:39:22,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+392,3b587f0f-e55c-4071-bd28-87868e970099,M,2021-01-19 11:53:36,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+393,e1f46aac-83ce-4064-95f5-d24c9e3fb044,M,2021-04-06 15:58:23,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+394,6e87b0b0-4b69-41d8-ace7-402c65cdd553,M,2021-09-01 19:59:28,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+395,37a24570-4e7b-4fb2-941c-5954e78df16c,F,2021-09-14 19:43:32,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+396,e25b3632-c9ab-4b4a-b209-82451f232ea5,M,2021-05-21 14:57:19,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+397,df116619-7db6-4197-b894-7817853344f4,F,2021-02-18 02:42:18,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+398,f5a2555d-ad4c-4dd6-9cf5-41980b54482c,F,2021-06-01 08:18:08,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+399,fa902c61-1eb0-4193-bfa8-02b774323ba2,F,2021-03-12 10:44:30,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+400,a3ffda5f-2343-49c2-82da-f17548de235b,M,2021-03-22 10:43:51,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+401,5802928a-146c-49d5-9def-a9f5d725315a,M,2021-02-09 16:48:46,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+402,1cde0913-bfec-41b6-ad0a-a7fb4210ac5b,F,2021-03-14 01:40:27,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+403,af55b729-ba9a-45e1-9c7b-1eedfd319cc2,F,2021-02-19 04:24:12,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+404,88d82447-03d3-4878-afdb-f0954f364d76,M,2020-12-30 02:46:02,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+405,c50b58e8-45aa-482c-a6d2-d45b7555a6c3,F,2021-03-24 08:24:53,PSE,Trucha ,platos-fuertes,$ 37.000,3.7
+406,063016a7-ae2a-4c29-962e-098aa9b58951,F,2021-05-16 12:54:26,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+407,193aa1fc-73d1-4260-9844-874a6c1ed4f4,F,2021-04-09 16:15:30,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+408,ee7386c5-309f-4f9f-ae73-ce798dcb9a01,F,2021-04-10 10:58:14,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+409,7ea6ca9d-8b02-49ef-9e29-c7ec67df2852,F,2021-04-16 04:51:18,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+410,9b82f112-3bff-4959-8847-ccef071cee55,F,2021-07-06 23:05:38,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+411,1415b1e5-9ec5-49e0-986f-da55bd232ce6,F,2021-05-10 08:38:26,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+412,50ab3732-dfbc-4f01-a3ff-584f33e5a4dd,M,2021-08-15 09:54:08,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+413,eff2e780-5fcb-43c4-a328-4ca196055ab7,F,2021-01-21 04:26:01,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+414,4aa5ee6c-09ab-487e-b323-68e1a5632878,F,2021-11-13 12:13:54,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+415,c2f2f085-f3f1-40b9-b11f-58b6821b53a5,M,2021-09-27 19:30:23,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+416,61970dbb-6cd6-4310-96ab-a7805f23bef0,M,2020-12-03 02:07:26,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+417,79f1f167-8e21-4cfa-ab85-06e2298b5497,F,2021-02-05 14:37:20,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+418,260c6b27-cdf8-4d7e-a417-50c52d4c641e,F,2021-03-24 08:58:13,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+419,c5e2ac65-40ae-4d95-849c-de8a9af588df,F,2021-10-06 20:33:06,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+420,86b332e4-7137-45f8-8d87-901592ec9dd1,M,2020-11-28 13:27:02,CREDIT,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+421,8cfd5277-cf04-4572-8fb0-655e9b241f86,M,2021-04-11 20:53:18,PSE,Aperitivos y Cocteles,bebidas,,3.0
+422,e921f251-5cbe-410f-949e-cbf073713918,M,2021-04-27 23:04:18,CREDIT,Vinos,bebidas,,4.6
+423,bca52055-0f42-427d-bb03-25f67b9a2961,M,2021-02-06 12:43:36,PSE,Cervezas y Licores,bebidas,,3.7
+424,5fc3f265-5b8c-46bd-8753-08c31e905317,M,2021-06-22 12:19:29,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+425,50e72527-0fab-4113-af86-15029ab0fc7a,F,2021-09-24 21:15:24,PSE,Flan de Leche ,postres,$ 13.200,4.4
+426,a1e20608-bcc0-4283-9f05-b4d6a1401eb4,F,2021-08-16 07:33:37,PSE,Postre Típico ,postres,$ 12.000,4.3
+427,e1794d57-ef44-4854-8a88-bbef52ff13b1,F,2021-07-30 11:45:33,PSE,Postre de Milo ,postres,$ 13.800,3.0
+428,933ca2f4-ed34-4dda-b80f-10c815928abd,M,2021-01-26 18:47:33,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+429,8ca9c3c3-430c-4893-8a98-a79e6dbe5a76,M,2021-02-08 00:43:39,PSE,Postre de Natas ,postres,$ 14.600,3.5
+430,52e6ce78-2ca8-4421-9a7b-078d2d73b899,M,2021-01-18 04:34:34,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+431,c14cc87d-9510-43cd-95f9-aa0608ccf04c,F,2020-12-11 20:51:40,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+432,02c8a0e1-bf18-477c-8a31-798ea066170a,M,2020-12-14 04:02:36,CREDIT,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+433,d1d118a2-67f9-4d4b-a4ee-80bd040fd7d2,F,2020-12-31 15:23:01,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+434,77e2352f-d7cb-4b7d-9430-c85e8d4aa30f,F,2021-09-17 17:51:44,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+435,c2b0cdcc-3c26-4222-8ca5-89b8af53752a,M,2021-04-23 03:37:09,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+436,a9fb124a-c44a-4371-af19-0f29bff3e92c,M,2021-08-16 00:25:17,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+437,2158f72b-f6be-4355-ab30-d57e55fc4a13,F,2021-04-14 19:24:27,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+438,7c7dd767-b866-4a35-b2a2-727efa4b4756,M,2021-07-14 18:26:29,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+439,db3ee87d-beb6-4249-b8fc-7ed8c1acd6c9,F,2020-12-23 18:03:37,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+440,3edf3069-8eae-49ea-bf1e-b6f6a9c73916,M,2020-12-03 20:45:05,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+441,04c8cea5-7820-4636-8cdd-868b51c851a7,M,2020-12-21 01:37:29,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+442,65d3a39b-0399-4693-a91a-9d6340a0d9b3,F,2021-06-12 05:29:34,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+443,9446e8cc-5c40-454a-bd67-e3e4cf2230b5,F,2021-11-06 14:33:28,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+444,80e849ac-89ee-47fa-a011-11301f4271ea,F,2021-01-25 13:56:27,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+445,4d49fd79-8bb2-426e-87b1-ca253da9b235,F,2021-10-09 19:36:34,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+446,6cceab33-082c-4f4a-b797-af49be172c4e,M,2021-07-27 04:14:59,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+447,f7d97e6b-23e1-40f8-9409-c95a37937f51,F,2021-09-29 19:53:28,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+448,c51ba867-f1c9-4bd4-8ea2-3cf4916822c0,F,2021-01-26 10:35:32,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+449,afb1149f-2f89-4e9d-ad45-9c19fdbb7147,M,2021-09-12 22:49:07,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+450,8ff4bc39-1acd-4e9e-b3aa-237366401c90,F,2021-06-17 18:27:31,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+451,6d6e31df-7f23-4058-96b4-aa3cc337a384,M,2021-09-30 04:20:59,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+452,5515322e-5089-4722-87d6-130ee920a6a9,M,2020-12-02 10:22:07,CREDIT,Ajiaco ,platos-fuertes,$ 35.500,3.5
+453,cd2e5da4-10f5-4066-925f-ea46312cde04,F,2021-11-15 23:48:42,CREDIT,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+454,81a1e36f-f987-448f-a761-082a991a4993,M,2021-05-04 21:23:48,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+455,47dc12b2-d456-434c-8800-e0c1c07fc721,M,2021-02-18 16:37:16,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+456,6d346c76-0b65-49a9-9f4d-f3e589660e31,F,2021-11-07 07:01:35,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+457,7d6b1e4b-57ee-4450-994a-73016ae8a53f,M,2021-10-07 11:39:48,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+458,341f5ffd-41bb-4341-b414-338e67751d43,F,2021-07-27 17:49:35,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+459,e149ec4f-e261-4ef5-8439-891db1dbbe49,M,2021-06-16 20:00:06,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+460,6577d8ce-fffe-47b5-bfd4-36fae772e2ac,M,2020-12-19 10:29:16,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+461,017e6d4c-0285-4749-88dc-31f21e86624c,M,2021-01-09 12:21:07,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+462,44582157-1d08-40f2-9223-10188a5c33fb,F,2021-04-24 08:34:44,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+463,f1e001ee-f84f-433f-a1f3-02db12ad96bf,M,2021-04-09 10:02:11,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+464,be7d9b99-0a13-45a1-b3e6-f5d642dd528d,M,2021-03-06 14:52:47,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+465,b131fdf9-982a-473c-8581-5d37b44bce53,F,2020-12-04 10:18:22,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+466,eb2fe59e-c125-4303-9f77-38e2f84b01ec,F,2021-06-01 12:11:41,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+467,8f1ca57f-5e0e-42de-9a53-11cc2a1b699d,M,2021-07-21 07:56:43,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+468,e675a738-8abb-4883-a741-9e5fe35add10,F,2021-07-13 00:02:31,PSE,Trucha ,platos-fuertes,$ 37.000,3.7
+469,dc2396c8-beeb-400d-93fe-be3a29ff70da,F,2021-10-24 00:30:45,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+470,4dc1d11f-016e-427b-8e39-dfb508bfd763,M,2020-12-10 11:09:25,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+471,452b277c-c5b0-4a2f-b89e-1297ecb8dde2,F,2021-06-15 00:26:49,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+472,fe9c9076-6849-45b3-82e5-afa3981655c5,F,2021-11-10 00:10:24,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+473,9d06621d-886b-49dd-abe4-e4eac09d0f6e,M,2021-06-15 14:32:37,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+474,106a014c-5104-448b-92c4-161eab5ddcc8,M,2021-04-09 07:26:15,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+475,22a9b85b-a0c9-4bff-8f34-52d7bb95b5bc,M,2021-08-01 22:59:38,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+476,f1450633-5b23-4f53-a1b1-39ea9fcbb6e0,M,2021-03-23 05:17:17,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+477,2ec00807-05d9-49c7-b77d-cc212f99146b,M,2021-08-08 19:46:20,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+478,33f69241-3eae-4b12-9cd7-f2aae2573324,F,2021-09-29 17:30:00,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+479,b012e3d8-9bb2-4286-8b38-35cfb0b87856,F,2020-12-01 05:43:59,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+480,2c1406ba-d91c-400a-8132-2f946e6c237f,F,2020-12-28 22:00:07,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+481,31e70582-089a-4adb-ac6b-0b5505c45085,M,2021-03-13 15:07:30,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+482,481b013f-8f97-4026-8720-5fdf22294a6e,M,2021-08-15 03:35:30,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+483,19c28fbc-22c4-42a0-81b6-b4d158e39c8d,M,2021-06-30 10:30:55,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+484,443cc1d6-a7b6-4772-8cec-97682d59c7df,F,2020-12-14 15:11:05,CREDIT,Aperitivos y Cocteles,bebidas,,3.0
+485,b91c9a83-dae7-446a-b21c-bc1499e9b9ae,M,2020-11-25 13:16:04,PSE,Vinos,bebidas,,4.6
+486,bae62f3d-4845-4379-a3b2-fbc46a1219f8,M,2021-08-28 15:20:52,PSE,Cervezas y Licores,bebidas,,3.7
+487,96ccd82f-d891-4a25-871d-3dd549976502,M,2021-08-14 05:58:42,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+488,1e6e3d48-d1b4-4104-99f3-e660ce131a69,F,2021-03-03 14:36:03,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+489,b098305d-1d89-498b-a528-4ef10e99b66d,F,2021-01-05 01:07:29,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+490,87c68861-9b9b-4666-ae90-773be2c4c1eb,F,2021-02-11 02:20:04,PSE,Postre de Milo ,postres,$ 13.800,3.0
+491,4634553a-bafe-47a8-a022-81abc22aea24,F,2021-10-12 21:09:40,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+492,fc3cba4a-c521-48ef-a7f1-1f56cc3c868d,M,2021-04-05 22:04:43,PSE,Postre de Natas ,postres,$ 14.600,3.5
+493,0f61f0e6-30e1-4703-ad3d-d19ff0c9066d,F,2021-05-14 01:05:59,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+494,ab193283-76ea-4a53-b5a3-8eb2c58031e4,F,2021-06-29 03:36:39,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+495,cd9539f7-37a9-41e2-afc8-f2393d2a00d5,F,2021-05-23 06:38:52,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+496,da4131a5-8c0f-4aa9-9d81-7a9b769adfd9,M,2021-05-21 11:50:34,CREDIT,Calentado con Solomito ,desayunos,$ 24.800,4.5
+497,ac21bc91-45fd-4e94-bf37-f3b2cc155c06,F,2021-03-18 04:51:16,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+498,fbe899e3-2dc4-41e5-a2fe-8fbc6da178b3,F,2021-11-04 20:52:02,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+499,94c460ce-91c9-4f4c-85a4-c1f5c009e1d3,M,2021-03-16 23:34:21,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+500,8cb1fba5-de81-4c96-b2c2-ffbf64d47f3a,F,2021-06-10 15:31:18,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+501,5639e3a5-995f-428f-8d78-6f4e0b576b0d,F,2021-03-01 06:13:59,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+502,1f03699d-7b77-414f-b992-defc197a34bc,M,2020-12-01 12:13:24,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+503,e69f5cb7-71ed-41f7-82f9-9c2c921d9c5c,M,2021-02-02 11:48:06,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+504,209f5a72-8fe4-41ce-96b7-56322e9fb741,M,2021-06-14 23:49:42,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+505,ba66d1f2-53a5-49c6-b151-d56a9b7145a4,M,2021-10-11 03:44:44,PSE,Chicharrón ,entradas,$ 22.600,4.9
+506,d94d4cb4-b5db-493a-926e-4f20e58745c5,M,2021-01-01 18:38:02,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+507,f517701d-3e43-45aa-a82d-4cb88d62d040,M,2021-06-21 03:18:57,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+508,3a8c60c1-e914-4536-8d09-efabfd842a99,M,2021-03-26 04:25:24,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+509,5b8bc0f6-5864-4560-9bc3-36d660e53949,F,2021-03-17 14:47:18,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+510,4ddaf9f5-0ae9-4519-b7e5-558689358f33,M,2021-06-04 19:50:59,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+511,df847d9f-5c44-44a3-a2ab-19275fcbbc1e,F,2021-09-04 22:17:10,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+512,e0f3522b-7518-45d4-9856-31b9402c4ffa,M,2021-06-25 21:47:52,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+513,b13627a7-ffcf-4af1-8256-6d43b99cb83a,M,2021-09-03 21:01:35,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+514,1b514d4c-48fb-441c-bae6-3f0fc775459a,M,2021-06-02 21:55:08,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+515,eb907004-f494-449f-a236-62f98850d190,F,2021-11-10 22:16:19,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+516,5c99617e-b945-4557-80f6-6e8ff6bcc506,F,2021-05-14 10:12:49,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+517,142f0a24-1d08-4337-8ef4-380c9180ebf4,F,2021-02-20 13:07:42,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+518,8eba5e7f-272d-4376-98f3-67bbbf5b15dd,F,2021-02-08 19:36:00,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+519,42e832a3-319b-4757-a436-52977187f3e7,F,2021-04-01 15:05:33,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+520,fad4d74d-c8e7-48f4-8e9c-1fdc0c5623aa,M,2021-11-05 19:15:46,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+521,54d19fec-a631-47fe-896c-a04c0b7f2ba3,F,2021-08-05 14:36:00,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+522,1c596f31-ebd8-4830-8be0-9c6343bc945c,F,2020-11-25 13:52:59,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+523,1c8ef6d9-e73e-4e5f-b7b6-726a0e8a5f56,M,2021-06-01 03:00:22,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+524,c972d7fa-e145-4068-939d-e346064ca4ce,F,2021-06-24 11:42:21,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+525,92e78099-bb2e-452a-aeb3-506f4984b4bd,F,2021-10-20 00:03:32,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+526,722ff605-51a7-4b00-9b3a-c1526e141d4a,M,2021-04-21 20:31:37,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+527,78e054e2-d03c-4ea3-8428-cd92e1b74aae,M,2021-07-07 03:21:18,CREDIT,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+528,41fa1e10-4492-491e-93b3-e3ac6b531272,F,2020-12-11 08:59:33,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+529,33f40720-d1d7-4113-a669-c505e2640d7e,M,2020-12-11 06:27:09,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+530,8da5a4bf-66ab-4d0f-a6ed-ff381e2a4f3c,M,2021-05-15 19:09:19,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+531,7bf522b4-4edc-4582-ab65-56e7a4711be6,F,2021-04-29 13:21:02,PSE,Trucha ,platos-fuertes,$ 37.000,3.7
+532,08dba2c9-6e2c-4f7a-b8f4-859e47ab0021,F,2021-08-07 10:23:08,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+533,b612a7ab-633f-4575-9984-acdefedaabea,M,2021-08-10 20:59:51,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+534,9d43608f-0cc8-4891-ac9f-c6914129e6f9,F,2021-02-14 06:20:01,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+535,e738db4b-5845-4dc7-b4d6-ad63103fca13,F,2021-11-19 11:05:02,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+536,39762c03-9e79-4d79-bb33-939458c9efb4,F,2020-11-24 16:40:32,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+537,62e181d1-a440-43da-bb2d-899600508e20,M,2021-11-17 20:10:12,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+538,9f853db1-5d54-42a2-afb3-a312d8f37caa,M,2021-10-31 02:33:05,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+539,822eda9e-e6fb-4f80-81ba-2797b638ad0c,M,2021-10-26 21:24:59,PSE,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+540,fbcbb4ee-7121-4acc-b92b-63ca71d0971d,F,2021-03-23 12:45:44,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+541,62f73d91-4ef6-480f-85f4-34a477f49a96,M,2020-12-23 21:55:05,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+542,1eb873de-2cc2-4572-a9d9-32891beea058,F,2021-03-24 22:38:05,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+543,3cd92f76-8748-42ef-8dc7-7c08fd39d64e,M,2021-09-26 12:38:48,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+544,74eb5b65-a72a-4610-a057-24a8b3ac255f,M,2020-12-03 14:57:24,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+545,ed2e459d-e33f-4abe-b450-a2790d2cea0b,F,2021-09-12 12:10:26,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+546,7d4cbac9-8b58-4057-998d-5af30f11454b,F,2021-07-21 04:37:52,CREDIT,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+547,4f560c9f-899f-408b-bcda-4d67b0c62aa5,F,2020-12-15 04:40:46,PSE,Aperitivos y Cocteles,bebidas,,3.0
+548,95a4e082-4da4-4b4d-9eb2-12af30943890,M,2021-07-17 10:01:26,PSE,Vinos,bebidas,,4.6
+549,96ef6cf6-33eb-43a2-b7bc-38357dc46c27,F,2021-10-03 05:24:42,CREDIT,Cervezas y Licores,bebidas,,3.7
+550,24cf9ffd-4a90-4bbf-b823-a1400d785182,M,2021-10-02 23:39:57,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+551,e3c2dd82-0808-41b9-b099-f4963a44d783,M,2021-01-31 20:49:06,PSE,Flan de Leche ,postres,$ 13.200,4.4
+552,bcef2e98-ea2f-41fc-b3d2-daa0f86ffdea,M,2021-03-25 19:55:16,PSE,Postre Típico ,postres,$ 12.000,4.3
+553,6080ba43-6ab7-4301-bec4-f28634d50df2,F,2020-12-12 15:42:46,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+554,a1485637-5505-42ab-a08e-8d18a81e1b2d,F,2021-08-10 21:31:34,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+555,a0403f98-c2a4-4bfe-9993-f713961aa294,F,2021-09-02 11:42:52,PSE,Postre de Natas ,postres,$ 14.600,3.5
+556,f83d5de7-30c2-45b0-97bf-f5fb0641c21d,M,2021-02-15 07:30:52,PSE,Mazamorra ,postres,$ 11.500,3.4
+557,854f134e-c4d6-43a9-a843-9a741ee79ee8,F,2021-05-28 20:33:22,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+558,e43632ba-1ed5-4311-b206-ea8b412881d4,F,2021-07-30 14:01:30,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+559,40c52268-7e46-4940-a5e0-281b4388c51e,M,2021-11-20 02:48:47,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+560,833591de-c838-4af2-8af3-b6512c4e408c,M,2021-08-14 00:16:34,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+561,e83d7c06-483a-448b-a172-27a1d5ff01ae,M,2021-09-30 12:02:09,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+562,df106953-82b2-4816-8e5d-625c622b1f53,F,2021-01-18 23:28:54,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+563,c016f7a3-21e4-43d6-b001-b22a468beb71,F,2021-10-17 20:41:13,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+564,a057b54f-7f9f-469b-b455-7cdf7438f887,F,2021-03-03 19:36:30,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+565,4ffa80d6-65c2-487a-821b-04533e034a16,F,2021-05-08 08:38:45,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+566,5917f26d-a09a-430c-b0dd-0a80e05cba9a,F,2021-10-03 16:21:55,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+567,0c0e5760-db7b-497d-a909-c911e1b540ae,F,2020-12-21 01:13:10,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+568,aa64323f-027b-4023-ad57-a590a670da6c,M,2021-08-05 11:52:31,PSE,Chicharrón ,entradas,$ 22.600,4.9
+569,629f521f-9bea-44a1-be0a-6dd9a4c12cf0,F,2020-12-22 16:32:52,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+570,c5c3295a-f2fa-4072-a152-5e3eb66a15be,M,2021-07-27 05:14:01,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+571,5a598011-d4c1-473c-b2c8-21c7883dc8f0,F,2021-10-05 01:58:36,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+572,50ea5610-ad70-4eb1-a4fa-14bb31a85f53,F,2021-03-08 22:38:03,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+573,452ab7d9-e126-482f-a851-1cf7b7a46c0c,F,2020-12-30 12:50:06,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+574,fe7aaecd-8587-479b-b2d3-155d3e10ed1b,M,2021-04-28 21:05:45,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+575,78a09e82-eeac-44a3-b029-259dc7440971,M,2021-09-14 09:00:58,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+576,1cf54ad4-e000-4fd0-a8b8-9f0d1e305489,F,2021-03-24 01:25:39,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+577,21268870-a50d-4349-9008-e0e58a2b12b6,M,2021-07-31 01:53:17,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+578,2b219ae2-e1a5-4abf-aa64-1228423cb746,M,2021-09-10 17:14:32,CREDIT,Ajiaco ,platos-fuertes,$ 35.500,3.5
+579,2d4cc594-4066-4491-a83f-149b0f50a2e6,F,2021-04-02 16:25:00,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+580,3766f01f-cd2b-408d-aa53-80981ad28424,F,2020-12-19 02:52:58,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+581,19f36160-7bc9-4d19-841c-44eb99fed9d3,M,2021-09-05 06:20:49,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+582,6393e933-21c0-408b-be21-4773dab65a65,F,2021-07-12 01:29:35,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+583,d4d69236-2204-48cf-9cb9-50ee8ec30997,F,2021-01-19 23:36:07,CREDIT,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+584,a61c1a32-8e7c-4928-bd6e-34957c14e661,M,2020-12-21 09:25:20,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+585,12c88f2b-56a0-4c09-bb75-35991554cd37,M,2021-03-20 23:28:08,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+586,f4315489-74ec-481d-88c7-9fb3be785e7c,M,2021-05-11 20:18:29,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+587,3ae5dd81-37ca-4092-b87b-57e5a5b457f8,F,2021-02-18 12:10:04,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+588,de46945d-3dc0-43ff-b932-acf0ad99b16e,F,2020-12-13 03:42:03,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+589,2b464e3c-74d0-4934-8ad3-68b1ebbdf9e4,M,2021-09-05 03:11:47,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+590,54121ac8-50c7-444c-8838-eb13fcbfa83f,F,2021-10-09 00:50:58,CREDIT,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+591,db77e713-f750-46b3-8f73-31b879343898,M,2021-11-12 05:40:18,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+592,372b5440-b206-4604-a926-003b79f13458,F,2021-01-26 17:13:13,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+593,a3d4deaa-9369-40c4-8eb9-0d087fb55f37,M,2021-08-27 06:23:04,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+594,634faf0c-bc6b-4235-b304-6c6230c9b7f6,M,2021-06-30 01:45:33,PSE,Trucha ,platos-fuertes,$ 37.000,3.7
+595,75e22d91-0a55-4eef-8503-a3d338e4e4ad,F,2021-01-23 06:04:20,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+596,97bf54e4-4844-495b-8515-fed67bf0e2c5,F,2021-01-14 12:40:04,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+597,0c1b0497-59a8-4045-9d1a-a0928f895583,M,2020-12-28 04:30:56,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+598,b4b5b63c-0ae0-4b6d-a7ef-bec642ad6741,F,2021-05-26 10:09:58,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+599,23bd26c7-bf34-41b5-9236-53a7fd81532c,F,2021-10-29 18:33:57,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+600,76b58c20-9153-488f-aaae-26d754a15859,F,2021-05-04 12:59:30,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+601,6a9d9dcb-9837-450a-b5b5-733c488a0fa1,F,2021-03-01 08:32:48,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+602,e6f8c78d-a83a-4bc2-9d9e-e9d7b83bbdc5,F,2021-10-07 13:48:11,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+603,dbd19525-0b40-4425-85b5-9cd738f5dda8,F,2021-07-30 03:33:08,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+604,9ac222cb-51d0-4579-9e59-bfeb40bff7e6,F,2021-01-10 15:59:27,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+605,f6a99b50-5b02-4a66-b137-c54baeac0cb4,M,2021-03-06 13:30:09,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+606,170b495d-6f86-42a0-9dbd-0841fe77b1ae,F,2021-04-20 23:49:55,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+607,ca049d3e-b6cd-4135-b537-9e6108776cf5,F,2021-05-29 17:47:59,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+608,de6c23e5-15b7-4c68-b1a9-4d6b77d51546,M,2020-12-05 10:50:06,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+609,5c7db879-1fbc-4473-901d-be42af3ef176,F,2020-12-11 19:00:17,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+610,6d8239c9-bbb8-41b8-b3d8-0a21203720a1,F,2021-01-11 06:11:50,PSE,Aperitivos y Cocteles,bebidas,,3.0
+611,dad3f3ff-c65f-4e28-af85-7b94c41bea57,F,2021-05-22 04:04:13,CREDIT,Vinos,bebidas,,4.6
+612,9cde5418-73e1-4146-82a2-a8f2a5a5d727,F,2021-05-10 08:50:00,CREDIT,Cervezas y Licores,bebidas,,3.7
+613,a70b938a-f20f-41ec-b3c9-df486a920305,M,2021-11-19 19:28:20,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+614,f2759d52-923d-4f7c-9053-92b71eecc56c,F,2021-06-01 22:10:37,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+615,7fcc6cfe-8d9a-4bbc-8a7a-2992f745bd3b,F,2021-08-09 00:57:57,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+616,a7c01ae3-7f1d-41e6-8d25-3eee7dd9be23,M,2021-10-01 21:54:46,PSE,Postre de Milo ,postres,$ 13.800,3.0
+617,6b2d8555-79f0-408f-bb36-7d100c53ab66,M,2021-07-31 03:41:31,CREDIT,Brownie con Helado ,postres,$ 13.900,4.2
+618,36f1b23b-8371-4e2a-93b4-589ca2191202,M,2020-12-23 22:00:17,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+619,71830d73-3238-4fff-826b-dfece5a897da,M,2021-09-11 00:13:52,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+620,9c181288-237e-4247-9fcb-1aff489dccc7,F,2021-10-14 11:55:52,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+621,74712d8d-4956-4452-b9f9-09ce721bf159,F,2021-08-30 23:17:38,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+622,64121ebe-0ade-4bcb-a5ab-5ba404a2216d,F,2021-04-30 12:39:03,CREDIT,Calentado con Solomito ,desayunos,$ 24.800,4.5
+623,53a83190-2e8d-4b2d-992d-8ecf4bf05d84,M,2020-12-28 18:38:03,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+624,c12c805b-8d2a-4e11-8fd9-719476864921,M,2021-03-18 18:51:12,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+625,89614a5e-9b7b-446b-a3db-6bf7ce83b43a,M,2021-11-10 05:35:06,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+626,b07205b1-60e3-4587-b996-5e92ec5bbf22,F,2021-01-01 05:30:09,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+627,b5e1bd2a-cb18-4f75-b4e2-a4cbbd349cb7,F,2021-07-21 12:57:32,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+628,7cc31015-8935-4850-bc5c-84bb057cd81b,F,2021-02-13 06:55:39,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+629,84a7ab05-effa-4efd-a09b-e85fa8035762,M,2020-12-23 14:19:47,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+630,6c9f8a14-c77a-4d98-bfb0-20b1865bf1a4,M,2021-06-01 10:51:40,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+631,fd20f61a-8f7f-4c17-bf59-2ef4cfb71bbb,F,2021-02-19 04:39:19,PSE,Chicharrón ,entradas,$ 22.600,4.9
+632,8a5de78a-fd37-4d2d-b233-3971012bc039,F,2021-05-27 03:41:56,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+633,0d7c1a55-5705-400f-9ac5-686aa6be51ef,F,2021-06-27 18:49:23,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+634,97e12142-aa06-4dae-8150-7f9f9eaf019d,F,2021-11-17 10:49:48,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+635,d315096e-c62e-49cc-874a-b85bbef2234c,F,2021-05-26 08:51:16,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+636,324fbf58-75f0-402c-824b-3f1642a22d50,F,2021-10-02 05:48:43,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+637,fbb23144-b445-4cfe-892e-0d046d9b8b24,M,2020-12-03 17:18:54,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+638,856cbb59-6038-4f4f-88cd-f5d3cfe71c2e,M,2021-02-24 12:27:25,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+639,43f45cd6-9adc-4f72-9f1f-c83e2f6cc09f,M,2020-12-28 07:44:50,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+640,95f108dd-9a27-4e09-a6bf-0aea84a62c1e,M,2021-01-13 01:58:24,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+641,94c192ab-231e-4611-a364-9b2e591cf185,F,2021-09-19 07:08:14,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+642,4987c023-4108-4584-8a06-0fd6c518adf7,M,2021-09-26 09:52:32,CREDIT,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+643,2e689058-ecf7-487f-990b-3dd19deb546e,M,2021-06-02 21:56:03,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+644,0b86274c-f5de-4b82-a268-7d22882db952,F,2020-12-05 18:24:03,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+645,92396ff1-049e-4f0b-ba45-a21e44f64dc7,F,2021-02-18 12:11:09,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+646,71892544-f4e8-4bc5-bef6-7f361f66fb25,F,2021-03-02 09:57:37,CREDIT,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+647,8b0afbf2-4476-4eb4-bff0-57d166199323,F,2021-01-15 05:25:34,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+648,608ef17d-5bae-4a27-aea6-7961703b8e5f,F,2021-05-03 09:55:27,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+649,16c971ca-ae69-4084-86c5-22678ad280ff,M,2021-03-06 09:39:14,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+650,c261e967-e7c4-41e5-9e6b-335b2bdcd124,F,2021-11-17 17:19:49,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+651,c4eec842-552f-4cb7-84d4-c8b0c095dbb3,F,2021-03-08 11:29:51,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+652,956b74de-e0ed-4f67-b89d-f9f6a4ad1c55,F,2021-09-23 14:04:44,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+653,b6e0f5e2-f862-4b4c-b65a-42002142c81f,M,2021-10-15 08:40:57,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+654,4365e94b-dafe-4d43-9342-b3ab231c048c,M,2020-12-08 20:19:53,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+655,70d113a6-ca44-4175-97b3-702176db281d,F,2021-03-07 16:00:45,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+656,468b6080-5e4f-4207-9130-100e77fa18a9,F,2021-07-06 21:04:11,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+657,9ad937e6-1c83-4c4f-b927-042ff21d987e,F,2021-05-21 13:44:39,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+658,40415d3b-1a01-4d84-81ef-8bfe01d2445e,M,2020-12-13 01:44:40,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+659,1a425827-d0c3-4545-aedf-61e0e6b74e1c,M,2021-09-02 03:33:39,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+660,1ff0edc3-1c61-4676-9f43-4139bfa087f7,F,2021-06-07 19:10:40,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+661,fc7c4e9d-16da-4e92-bcca-e9e839aa151f,M,2021-03-20 19:21:32,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+662,8c70919c-b1ac-4633-95b0-2b9b07067350,M,2020-12-19 13:40:45,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+663,d7db31eb-ca83-4185-b42d-e2a602aa390f,F,2021-02-18 20:37:53,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+664,0e7d7dfa-e617-43b4-9a1a-3e08b76776fd,F,2021-08-24 03:14:35,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+665,626e2d93-9051-408d-8268-5bccca3fb359,F,2021-05-07 02:11:50,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+666,ba4c9e7a-146c-4d07-9861-1929cf7f812e,M,2021-05-30 07:06:17,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+667,a9a0abb5-aaa4-4974-82d4-50a0d7446555,M,2021-05-11 01:05:44,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+668,0c6c7a2e-b5d9-45bd-9b1e-f41ce21fe89c,F,2021-05-19 23:23:00,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+669,3bc8687a-1968-489f-9bd2-16e620ca52db,M,2021-01-30 03:28:49,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+670,6a3b87b9-f141-40d0-8579-7f80bf601b4a,M,2021-06-09 03:38:52,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+671,7ad6e339-1f50-4d74-8b4d-0ae0ccf45437,F,2021-08-22 11:18:31,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+672,0ca1bbe0-58a3-4314-abd3-28d78660b173,M,2021-02-27 08:12:59,CREDIT,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+673,fa957e5f-b59f-4b21-a8d5-240fec869a5b,M,2021-06-04 09:37:47,PSE,Aperitivos y Cocteles,bebidas,,3.0
+674,6a2bfdbd-af34-4b8e-9020-5089ce1533ed,M,2021-02-02 18:09:40,PSE,Vinos,bebidas,,4.6
+675,741d66a0-7d03-4716-93d8-e03a0a162c34,M,2021-06-29 19:05:19,PSE,Cervezas y Licores,bebidas,,3.7
+676,16c04b76-bf83-4096-ba32-11a1ce119bab,F,2021-02-23 17:39:26,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+677,1c75f9ab-b36b-4704-b33e-7c0ce8dcad0c,M,2021-01-05 11:01:44,PSE,Flan de Leche ,postres,$ 13.200,4.4
+678,0650ed8f-2342-4da7-b166-d09c4ad8c35f,F,2021-07-01 02:08:08,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+679,2dbda8a4-fec7-44c0-8b40-961cc99bcde2,F,2021-10-17 19:06:11,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+680,199dc7b9-0fb5-4e40-a64e-33b55e411938,F,2020-12-25 11:14:07,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+681,1e99d13f-a71b-4914-bd50-8a51f8263fdf,M,2021-07-03 18:12:53,PSE,Postre de Natas ,postres,$ 14.600,3.5
+682,57e49395-8e63-4e9e-842a-c1cda341afa6,M,2021-10-16 23:57:59,PSE,Mazamorra ,postres,$ 11.500,3.4
+683,e2efe8f9-cba7-476e-bea6-8481fd7bc7f0,M,2021-03-04 09:46:54,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+684,5135d0ac-a86c-485f-8cf4-8b53ef08a7ab,F,2021-01-19 11:03:19,CREDIT,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+685,3cf30787-4c57-498a-b840-4f7ac35702d3,F,2020-12-12 06:42:49,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+686,662e3dd4-2f29-4a9a-a9c2-9be1beac5bd5,M,2021-08-31 08:21:25,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+687,5a510e2e-0143-4ebe-befd-a5237ff1cb93,F,2021-07-25 18:38:18,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+688,f08de875-6b3a-46ff-a1bf-239ac1d9035b,M,2021-10-09 09:09:17,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+689,589d7e33-2e45-4ab7-ad1c-91e65c17af91,M,2021-02-11 02:33:09,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+690,2b6da475-bf9a-4bc6-a769-ad1e2aab7514,M,2021-06-28 12:32:02,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+691,5d40e99c-b738-4f84-8df8-7543cd15351e,F,2020-11-30 02:44:56,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+692,6c617327-0fe8-47c1-b25e-50dfb453e5a4,M,2021-01-07 11:46:20,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+693,d4786cc6-b0bc-4fe4-a0ce-ec56ef12acb0,M,2020-11-29 11:18:43,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+694,617e504e-8529-4a14-889b-f0e6bc9f7a87,M,2021-10-12 06:06:14,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+695,20ccdf02-69dd-42ee-82f7-c2f8013225a0,M,2021-02-25 05:46:37,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+696,694a5b88-e114-45a5-bd17-4e26b046a9ed,M,2021-04-03 01:39:37,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+697,57bc58f3-ecd0-408e-bb48-ef8b564aff2f,M,2021-06-15 16:11:16,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+698,d116ad5e-d736-4aeb-9d65-da4d2205aa4e,M,2021-08-09 08:40:21,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+699,961cae2a-ac97-4155-9bcd-c869124c0996,M,2021-04-07 17:57:44,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+700,7af271ae-0738-41a4-8956-ece22e209606,M,2020-11-23 23:29:12,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+701,f75861fb-2fe9-4afc-a205-eac8ae79ec26,F,2020-12-29 20:03:37,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+702,4b3de38c-5f89-4f1a-98ea-b427c8f4a9ee,M,2021-08-23 12:22:28,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+703,c82880bd-5bd9-49a8-9628-6a830c1019f0,M,2021-05-12 01:12:50,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+704,5c8ccf1b-22a9-4c3a-9492-e2d90f0767b6,F,2021-06-25 03:38:57,CREDIT,Ajiaco ,platos-fuertes,$ 35.500,3.5
+705,2a7c0fc3-ae76-4dd3-83d5-4bee88cfb685,F,2021-10-24 00:11:07,CREDIT,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+706,09daa6d1-ae13-4135-a8df-bee73e1d842d,M,2021-01-07 10:43:42,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+707,fef399d8-5a85-4836-9f65-07c388d2892b,F,2021-04-05 08:06:31,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+708,72f90839-2e75-4705-abd1-9265bab290bf,M,2021-04-30 00:30:05,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+709,99c77f38-db96-40ab-9068-9f097f5cb6cd,M,2021-10-16 10:22:47,CREDIT,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+710,36ad5236-a092-4244-9ffc-af1904882d40,M,2020-12-14 18:18:24,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+711,1233fef1-de23-47b7-bfbf-7a82db3e3bf6,M,2021-09-12 19:48:07,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+712,02ada1c4-55e3-4e04-83be-83e57e00b46a,M,2021-05-31 19:33:11,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+713,c59b07a2-9e2e-4aaf-9239-0b509a5a984a,F,2021-11-09 05:53:54,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+714,164817dd-3f1b-4ad4-8fe0-86ad3c4235d4,F,2021-05-25 14:33:45,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+715,21bab414-1348-401d-bba4-0e8e730d0d64,F,2021-03-16 12:43:18,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+716,c04fe274-4da3-4090-898c-6b05823543ca,F,2021-02-05 21:21:12,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+717,73463b66-aee1-40bd-9aee-91562b7fe63b,M,2021-11-14 22:15:43,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+718,0e512c62-149d-478b-90f3-bedb9936e565,M,2021-10-30 16:39:23,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+719,f926806c-69a0-4159-8186-84ec2ceab16b,F,2021-05-14 23:12:36,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+720,91cf880d-8291-44d2-b0d6-65cf50ce7a8b,M,2020-12-31 11:51:36,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+721,d0833711-d44e-4b14-bb90-f84105cfdcfd,M,2021-10-30 07:56:45,PSE,Salmón ,platos-fuertes,$ 54.500,4.5
+722,d9bddb57-21ca-4355-99b4-b25ec419449c,M,2021-10-31 16:07:45,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+723,757fd691-0aba-4ad0-9d3e-ab9a39f1afea,M,2021-04-19 13:54:13,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+724,06691b76-9eb3-4a89-84bc-f54a4fae28d1,M,2021-07-22 18:36:48,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+725,238a50dc-1c1e-47b4-b406-2923b723f8a5,M,2020-12-24 11:53:48,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+726,5962709b-04c5-488d-a055-54068b1a8ea8,F,2021-03-15 20:02:58,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+727,d09cd0cd-e46f-4cd9-bfdc-efa80ff7329b,F,2021-01-30 06:28:14,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+728,c1709940-6f50-4275-9bad-3fcf82876747,M,2021-05-29 13:41:02,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+729,7b6f0b4b-b9bf-480e-8e29-bd4ca06e55be,F,2021-04-18 03:05:36,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+730,092cfb02-2d13-4ade-b688-99fd61b081a6,M,2021-05-10 20:10:55,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+731,13f0c510-9e9f-4be5-aa1e-7100ed9dbdb9,M,2021-02-04 19:00:12,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+732,76850625-0e05-4566-9309-68f2c6ad6d33,M,2021-08-23 06:58:42,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+733,188f5c1f-087b-404f-ab86-cd25fc062352,F,2021-02-24 13:38:32,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+734,7e73857b-671f-47a1-b683-9f039df991fa,F,2021-02-07 19:50:49,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+735,0a239459-3350-4e82-bce5-a4ef3508a47f,F,2021-05-18 13:08:53,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+736,95a83866-0ee5-4988-b6a1-54e070c8d7b7,F,2021-01-10 14:17:06,PSE,Aperitivos y Cocteles,bebidas,,3.0
+737,d04582eb-0d78-4e27-8e27-17f25287ef4c,F,2021-05-11 08:03:57,CREDIT,Vinos,bebidas,,4.6
+738,c6385d85-5431-4718-bf71-01e4c5e9a5ac,M,2020-12-03 20:28:33,CREDIT,Cervezas y Licores,bebidas,,3.7
+739,4f9b1a88-5196-4f24-8464-0cdd6a8c788a,F,2020-12-24 07:51:50,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+740,33609536-89ab-4d50-b30e-85462d2a8881,M,2021-02-13 10:35:19,PSE,Flan de Leche ,postres,$ 13.200,4.4
+741,7caaa03e-d943-411f-a38f-58f92a777d83,F,2020-12-07 15:19:30,PSE,Postre Típico ,postres,$ 12.000,4.3
+742,a1d0a4ee-1f12-4ca1-bf5c-37aaf690058f,F,2021-06-22 14:07:35,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+743,0da01e38-afb8-4c11-ac52-3ec1c89ffea1,F,2021-06-27 18:36:35,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+744,c1d8b108-864d-4548-9669-d291ac9e24ba,M,2021-07-29 23:17:48,PSE,Postre de Natas ,postres,$ 14.600,3.5
+745,26c95bf8-81e7-497c-ae9a-83f11ef902a5,F,2021-08-19 12:48:34,PSE,Mazamorra ,postres,$ 11.500,3.4
+746,f6b0d237-a1ba-4209-a7ea-5e674efe4837,F,2021-11-16 20:14:36,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+747,2852ed77-ee48-4866-b13d-f2c54bf7cbd7,F,2021-04-06 12:06:45,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+748,aa4518e3-fc15-47b3-9614-82647e5e3cfc,M,2020-12-02 12:07:45,CREDIT,Calentado con Solomito ,desayunos,$ 24.800,4.5
+749,b5ae913e-50ab-4f65-9bda-3ef3f379d5a4,F,2020-12-03 20:52:36,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+750,e5321040-1b71-483c-9a9a-bb3861f846e3,F,2021-07-25 23:16:17,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+751,4d01c353-0e1c-4ea2-935c-116cb2d07161,F,2021-10-01 11:23:21,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+752,ed10b336-d93b-41df-a81b-7ddba3b01c97,M,2020-12-03 17:58:46,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+753,e344c96b-67b3-4aa3-9d6e-26ae37ea5e9c,F,2020-12-16 20:44:50,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+754,92ca204c-0fa9-480b-9d23-e68733a496da,F,2021-09-13 23:14:59,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+755,d0480cd4-4a3e-4974-905a-41b66f04ee57,M,2021-06-21 15:27:53,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+756,b0af950e-822e-4d4b-b99f-7b3446154f25,M,2021-06-15 19:44:57,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+757,831db18c-f5be-4960-ae9b-f1506aec3b86,M,2021-10-17 17:09:40,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+758,60b7fed7-3f6d-4c93-aa4e-c31f130a69f6,F,2021-08-15 13:24:29,PSE,Entrada Típica ,entradas,$ 29.900,4.3
+759,93b7b707-82bf-413b-be5e-053ef891e357,M,2021-10-04 13:37:35,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+760,e01a2012-7b07-4b69-a24f-a0447610712d,F,2021-03-09 16:44:26,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+761,e52771be-f70c-4146-a6dc-ab1f56ccfe77,F,2021-02-05 10:59:25,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+762,5aa35df4-4055-4a97-b578-51cc6de8720c,F,2021-02-13 23:00:44,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+763,a3ee0879-6cf7-42fc-9c0b-f59b1cb2c6cc,M,2020-12-29 01:13:40,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+764,a981adcf-3d21-4e5e-9342-eda869e7d5a9,M,2021-03-19 08:59:32,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+765,d0030076-c724-44dd-b384-eda7a95d7751,F,2020-12-28 18:40:34,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+766,74e8edf6-ddfb-483c-9402-35aa01725463,M,2021-09-07 15:21:28,CREDIT,Mondongo ,platos-fuertes,$ 35.000,3.5
+767,e16dacc7-8ce9-4505-94c6-bf154fd25413,M,2021-05-10 02:19:47,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+768,e10bfc12-3adc-4cb6-a125-40a843ec712a,F,2021-04-02 03:31:52,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+769,3cf6f572-7ff3-4097-a819-34281eab401f,M,2020-12-19 13:02:31,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+770,77ed0dd0-63e8-4ee8-a9ca-314383f3ba9f,F,2021-10-16 18:10:42,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+771,65ebff30-4cc7-4a32-8193-07e4ef31f49f,M,2021-10-20 18:07:04,PSE,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+772,09702b31-334c-4f9e-a985-44bb3df890f4,M,2021-08-09 06:23:29,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+773,dd0f1a0e-310a-4574-b3fe-4982c912a38a,F,2021-03-23 23:24:55,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+774,27981ae8-1817-420d-b985-7cde3d6200b7,M,2021-09-16 14:40:51,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+775,682f54e7-03b8-48ab-a931-13b70247a0da,M,2021-06-05 06:17:27,PSE,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+776,70475fb9-4f47-4f8d-bf13-d1766155883c,F,2021-03-14 08:00:41,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+777,a2fb417d-c5c9-40b6-aeeb-1368f0b0c271,F,2021-06-16 20:35:04,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+778,4ab23ded-2785-4c41-aeca-3e21877db22e,M,2020-12-27 09:04:04,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+779,81b6f436-234a-4b4a-a426-592df25d402d,F,2021-01-01 01:16:59,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+780,363ed11e-7288-4f68-94a3-91683e6f8bd1,M,2021-04-14 07:58:46,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+781,d3d5a0b0-473d-4399-9e7b-5f6daa7636d9,F,2021-08-06 16:02:12,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+782,f6dafbbd-ef1a-4b0f-97e4-ac674753de43,M,2021-11-18 10:13:54,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+783,59a1bc05-d1c1-45e9-9efc-646ffb096c2e,M,2021-03-10 02:55:40,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+784,94360356-cb61-4150-b0ed-19a2e96a1f8f,F,2021-08-09 03:46:17,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+785,e99feb9f-b9ac-41d8-9f56-3aecc658afb4,M,2021-09-26 08:24:23,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+786,0927b6c7-bd63-41cb-b1eb-dd06afb0e0aa,F,2021-05-19 11:15:35,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+787,fb3732e2-9bc0-4fd1-87c7-2de09ecffa3a,M,2021-07-07 21:25:31,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+788,6129832b-42a7-4d21-b26e-854ac514c10a,F,2021-02-15 16:34:31,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+789,cc23bd0c-c897-4465-ba62-7d70c656a2b7,M,2021-10-02 21:59:40,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+790,2b148e30-bd38-4e69-8ee6-83b2f56f7f07,F,2020-12-16 23:55:32,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+791,08f63c66-b5a5-44f3-8035-b53c8c78d96b,F,2021-02-06 01:23:44,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+792,6bf557bb-ba04-4bce-88a8-24fc04696420,M,2021-09-15 09:55:54,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+793,7f590077-977d-401c-bbec-cec5d1eb3ce0,M,2021-07-01 12:56:34,PSE,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+794,c3edeb6e-ff7d-4bae-aa38-ea1c9ac1d4fb,M,2021-03-06 08:59:14,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+795,19bc67e2-b7c3-41cd-b588-c597ab459bc8,F,2021-09-06 21:32:24,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+796,8feae5ed-e881-4446-a123-b8ab58c59d0c,F,2021-05-25 02:28:12,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+797,b11ba255-41f5-4c92-aa2c-1eba961e268a,M,2021-04-03 13:47:47,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+798,65f0515c-363e-455b-866f-880bfd29ae9f,M,2021-06-14 14:36:19,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+799,2ccc42da-47c5-4838-b9b0-b39fb79ccefe,M,2021-08-23 09:02:35,CREDIT,Aperitivos y Cocteles,bebidas,,3.0
+800,8f2b094b-799c-425c-a349-c30c5b221928,F,2021-02-18 11:16:51,PSE,Vinos,bebidas,,4.6
+801,550fcef5-1aaf-4cfd-af63-5701d6ea6fb9,M,2021-04-20 10:21:10,PSE,Cervezas y Licores,bebidas,,3.7
+802,00f1d098-8042-4bfb-9e64-521bfdbe3df5,M,2021-06-24 16:16:44,PSE,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+803,2689c9ae-e37b-4aac-956e-d1463dc60a58,M,2021-07-15 12:10:11,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+804,2fffd21e-2be2-479b-a1a3-0ecac99be675,M,2021-11-05 22:35:43,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+805,6b34445e-9b49-446f-a841-a81ff66c646b,M,2021-04-28 05:55:05,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+806,b804590d-1619-4892-83ef-9374e9b7e751,M,2021-05-15 21:19:07,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+807,c815086d-c4c6-4b1f-943e-630de5b11ca4,M,2021-10-07 03:47:37,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+808,89bc7357-677c-4fb0-975f-f2a590c5475b,F,2020-12-19 05:21:12,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+809,4d7b38c0-e5de-4ec2-a1f9-f77c67d5cd69,M,2021-01-22 07:04:30,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+810,a9fc8665-c570-482b-8e87-f1f03b00d14a,F,2021-06-01 03:07:14,CREDIT,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+811,3eaaee1f-63f2-4d98-9463-f10db37acdde,M,2021-06-11 20:27:10,CREDIT,Calentado con Solomito ,desayunos,$ 24.800,4.5
+812,ba16068a-eb03-412f-86be-84d5cb9aea57,F,2021-09-07 05:51:25,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+813,db05a32f-1845-46c1-9d81-02d85c92ea60,M,2021-07-27 09:34:40,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+814,559f7fed-c4a8-4a1c-bc26-0355ebdda6ed,M,2021-09-19 01:11:45,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+815,28999e13-be18-4189-b003-1bc860944823,F,2021-07-29 18:19:53,CREDIT,Bistec a Caballo ,desayunos,$ 29.900,3.8
+816,db7210b4-5686-43aa-aebc-cad2e8dd69db,F,2021-04-13 00:27:23,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+817,37c08636-50d4-445f-b13c-fc9339db5bdb,M,2021-06-24 11:09:16,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+818,3939d373-fca7-4912-ba00-38136b437cf0,M,2021-06-29 20:03:47,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+819,b65948c3-f25d-4f74-8e40-ad1b7ecdb205,F,2021-06-15 16:38:11,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+820,4cc2a830-b0a9-4fe5-acd2-957901177280,M,2021-10-25 20:43:41,CREDIT,Chicharrón ,entradas,$ 22.600,4.9
+821,b41e28f6-315f-48cc-a3bc-fbc0b5a2aa9d,M,2021-01-22 02:06:10,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+822,2abd6b1d-638b-4a30-8fb7-227d1533cff7,M,2021-09-08 23:19:04,PSE,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+823,6664cf30-3ba2-4692-b0c1-550423f20bb8,M,2021-02-20 10:56:44,CREDIT,Crema de Maíz ,entradas,$ 14.500,3.8
+824,aa7c15e7-2616-4625-a35f-66e3b039d040,F,2021-07-04 01:13:39,PSE,Sopa Campesina ,entradas,$ 14.000,4.0
+825,15c7e347-95dd-4d8e-9735-4d1069667fba,M,2021-05-09 11:13:00,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+826,cccf0b49-f392-4fc1-9875-4470a89eb497,M,2021-05-29 02:36:09,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+827,dc51e0ab-f0de-49c7-adb6-c7732b74c09c,F,2021-03-30 23:27:45,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+828,e228ac71-3365-49d1-a6f8-4a3e1c0b1e3d,M,2021-11-08 09:40:36,PSE,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+829,c5c857e3-afeb-40e2-bc77-99a52d432c54,F,2021-07-29 11:26:28,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+830,02f85cd9-904f-4754-8f2d-ebe0546fb31c,M,2021-01-06 16:34:04,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+831,72e4bb68-5325-41cf-9549-d80fed75454a,M,2021-04-14 02:39:12,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+832,4bb2bce8-a0c9-4074-b480-ade4e3911377,M,2020-12-12 13:09:54,CREDIT,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+833,fbac68b3-2c75-4a18-a7e4-924a0a112846,M,2021-05-06 00:41:17,CREDIT,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+834,5ae55e5f-710d-4c6d-b716-11c4ebb4b243,M,2021-04-30 17:44:17,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+835,d6fcfbbf-0bad-413d-97e9-745afecaba8d,M,2020-12-20 01:11:40,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+836,2e4bf502-bac4-41ee-a80d-46709409cac5,M,2021-02-22 12:06:02,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+837,e6671133-57ff-47e9-9390-a9507c4542f2,M,2021-02-10 17:35:54,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+838,5efe6c6a-0696-40e7-a849-ace0ae47eab7,M,2020-12-19 17:10:16,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+839,6428755b-c34c-4f19-85d0-2c114bed6380,M,2021-09-30 14:40:00,CREDIT,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+840,aebeba29-1806-40ea-8335-86c8c00271a5,M,2021-03-19 09:24:14,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+841,91eb3795-47a9-44e3-98c0-492b584041e4,M,2021-04-24 01:45:56,PSE,Solomito ,platos-fuertes,$ 48.400,4.1
+842,f0cd75be-d627-466c-8fea-261482bd45cb,M,2021-03-04 01:35:30,CREDIT,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+843,5697a1c7-04bc-4158-98bc-b61bf63f7b63,F,2021-07-16 21:15:28,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+844,96cb72cd-a545-4118-b1d7-09354bd7581d,F,2021-08-28 19:05:31,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+845,c7bf9ee3-8d38-4b08-a5d5-1e97a46c3f3a,M,2021-04-17 16:23:31,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+846,a7fa75cd-dab4-411b-bc0f-850b6672d527,F,2021-04-10 17:50:56,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+847,32e4c39c-3c4e-4a8a-8141-46702160a331,F,2021-04-12 20:58:15,PSE,Salmón ,platos-fuertes,$ 54.500,4.5
+848,6a5f79ce-0bab-4a15-9246-af0299579573,F,2021-06-09 01:04:12,PSE,Langostinos ,platos-fuertes,$ 67.600,3.5
+849,1dc13e3d-2fe7-424f-87e0-98522c55a0a9,M,2021-06-10 15:53:15,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+850,4a390889-a4e2-425e-b9f8-db5042119e75,M,2021-08-14 14:01:07,PSE,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+851,4f3563c0-9f6b-4d92-9470-6499add406cf,M,2021-11-15 22:46:04,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+852,5f002226-203c-48aa-98ed-b2d06fe4205e,F,2021-04-07 17:26:56,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+853,d2c07c48-5441-46fe-aca6-e8172ac2d6f9,M,2021-10-06 13:39:11,PSE,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+854,5512842a-c569-4538-a5bd-a9c7110a5d5f,F,2021-07-29 05:39:26,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+855,9c8cfea4-b9b8-4008-8d10-a6437cb55bdf,F,2021-10-17 20:39:15,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+856,519d9cbe-7545-4b6a-b36e-cbfc28d95a4d,M,2021-03-24 22:25:04,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+857,12b10224-840f-4d4e-9b3a-c4f91955d0bd,F,2021-07-06 23:04:19,PSE,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+858,7293372b-9da8-4258-8fb9-cdd26f882cde,M,2021-10-14 07:59:50,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+859,3bec4d57-3ea6-4c20-905d-82d5851e20ea,M,2021-10-14 05:01:03,CREDIT,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+860,e87f8de6-5e36-4a02-8eb3-a1a52d16da56,M,2021-04-17 12:21:12,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+861,de277eb9-e5b1-4639-b021-d393928e985a,M,2021-04-25 03:15:04,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+862,a3f3fcf7-8232-4aaf-917c-094ca581f4ee,F,2021-02-16 14:11:12,PSE,Aperitivos y Cocteles,bebidas,,3.0
+863,df97505a-ceb9-4bdf-978e-506b2f7885fc,F,2021-11-08 06:19:59,PSE,Vinos,bebidas,,4.6
+864,e682a94b-0f7b-4709-b143-0d3e60cafdca,F,2021-02-01 19:49:02,CREDIT,Cervezas y Licores,bebidas,,3.7
+865,9ae97eaa-f060-4a20-b85d-18353abea98c,M,2021-04-23 06:27:18,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+866,3ee58d4a-7952-4898-b7d5-1179dc485f44,F,2021-11-02 16:25:41,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+867,53cb89a7-35d5-4aee-91d4-522f4c4dfafd,M,2021-03-27 19:29:35,PSE,Postre Típico ,postres,$ 12.000,4.3
+868,7fee3b08-0a36-419a-8f35-a61120c195d1,F,2021-08-03 12:09:37,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+869,50703903-a4b7-476d-9d99-c074c666953b,M,2021-10-26 02:58:47,PSE,Brownie con Helado ,postres,$ 13.900,4.2
+870,c889f10d-f213-45a5-b9cc-3abaf07e10e4,M,2021-06-17 13:30:55,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+871,a22f5e43-0111-41c3-867e-0bf530834d6e,F,2021-11-17 20:25:37,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+872,a9572e7b-b399-4044-b79b-c3721bb42d3a,F,2021-04-03 02:07:08,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+873,d808734f-7fcf-49c9-8725-54984396758a,M,2020-12-19 15:36:06,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+874,cd018228-48fa-468d-a245-668e06028435,M,2021-10-07 05:07:09,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+875,7f6316cd-46b5-4ca7-92f2-418b892a22b8,F,2021-01-02 13:25:32,PSE,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+876,af69471e-6fea-4f60-89de-7d19657ddab0,M,2021-10-21 08:36:41,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+877,36108218-b8ca-4745-99db-1fd6c52bbea5,M,2021-07-27 19:35:31,PSE,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+878,7d74fa80-9053-4db5-b344-66533fd42a24,F,2020-12-20 06:25:54,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+879,4b41c376-983e-42ce-bffd-dab186d1326d,F,2021-08-07 20:12:28,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+880,b845a27f-400c-4b90-8996-5f8a9f6e6aa7,F,2021-04-24 13:09:53,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+881,78553f0a-d054-4ba8-93cd-03a0e55de4b3,M,2021-10-05 20:23:39,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+882,3e31c61b-2202-4e0b-a05f-a7bf216749c3,F,2021-09-13 06:08:09,PSE,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+883,38683380-922b-492d-9c98-fdf0a9082224,M,2021-02-04 13:46:09,PSE,Chicharrón ,entradas,$ 22.600,4.9
+884,e65c7b81-f09c-4a93-9066-1d3dc3262676,F,2021-01-31 10:42:08,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+885,3e67ae30-3dcd-4228-8c31-62b18361d8ab,F,2020-11-26 17:06:34,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+886,5b7fab92-6a3f-451e-bd08-4c869ae6139c,F,2021-10-04 18:32:53,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+887,b54eae5d-7087-4aa2-b0c7-4ef8fb0d9937,F,2020-11-26 17:41:48,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+888,92d70291-5957-45c3-94f6-b70f6b8d579b,M,2021-06-14 16:25:12,PSE,Sopa De Guineo ,entradas,$ 14.000,3.9
+889,81c9c9f3-d5b2-447b-bc57-cd037b2efc0b,F,2021-05-01 07:22:55,CREDIT,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+890,b946ea43-6741-4de6-9701-5c88c362b03c,F,2021-07-24 02:40:07,CREDIT,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+891,ef3dbae1-a70d-4d4b-a5e9-86823471dc9f,F,2021-10-31 02:43:34,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+892,739a88bd-1dfc-4366-9761-702c934debf8,M,2020-11-22 00:55:30,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+893,60a52e63-2717-4856-ae65-e5007fce7e6d,F,2021-01-29 20:11:18,CREDIT,Ajiaco ,platos-fuertes,$ 35.500,3.5
+894,8a2c3d9f-f775-41e4-b9df-26123977572e,F,2021-01-21 22:40:14,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+895,ba2de8b0-a0ac-41c9-8644-9eb9b2166f78,F,2021-10-17 22:32:05,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+896,9646d597-6a94-4416-9735-85c8d051d8c0,M,2021-06-13 02:18:48,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+897,23a377f3-6e88-4d13-9715-0fcc53033dc4,F,2021-07-04 11:13:13,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+898,2aefe8ef-18dc-48a3-97ac-56675abaa98c,M,2021-08-03 09:25:36,PSE,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+899,0bde4ab7-1f6b-4718-bc8a-d610a978883f,F,2020-12-09 06:09:48,CREDIT,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+900,ac6d123b-45e7-4ca3-9189-2c05e0f69fab,F,2021-08-21 10:09:35,PSE,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+901,2822ad38-c86e-490b-bb10-0f2cfaf04ff4,M,2021-06-15 08:11:09,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+902,b17fad23-15fc-4691-b1f5-4673ee9e69f9,F,2021-04-11 23:43:04,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+903,e5c530f2-8d18-4e66-8fe3-5b12cd9507a2,M,2021-11-14 19:51:16,PSE,Churrasco ,platos-fuertes,$ 46.800,3.4
+904,0451d9d2-845f-46c0-8e71-e6e26fd79baa,M,2021-03-28 08:12:00,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+905,5fa20e53-24de-45fd-ab83-ddfca15f7200,F,2021-06-16 10:36:45,PSE,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+906,a9933c69-9a1f-4e20-a0ad-e77b197dc34b,F,2020-11-24 20:28:19,CREDIT,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+907,71bc64fb-4b65-4745-9b10-d6d5df52eb4e,M,2021-05-30 00:07:09,CREDIT,Pollo ,platos-fuertes,$ 36.500,4.9
+908,39382616-7cfb-49f7-bc3a-aa5b7b4bb7ec,M,2021-03-12 17:10:49,CREDIT,Pescado ,platos-fuertes,$ 35.000,4.1
+909,67d7ecaa-dcc0-4dce-b4aa-aaf572b01853,F,2021-05-30 17:45:08,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+910,2c2e62ad-a5df-44dd-9227-037d9c3ca136,M,2021-01-03 17:40:09,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+911,7ae0be3f-7ac8-4f6c-8dea-f1a9094156ed,M,2021-07-19 15:33:48,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+912,42ccd345-5e59-4aef-91d6-633e9d488269,F,2021-09-11 07:08:28,CREDIT,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+913,6a859230-0c48-4900-a5c4-8d9d8d871287,F,2021-05-24 11:09:17,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+914,e6505bda-5c6a-4119-9051-48b220323ca4,M,2020-11-25 15:37:27,CREDIT,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+915,54c00fa3-22d0-4328-ab53-0528339f7ce3,F,2021-08-10 15:23:12,CREDIT,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+916,5f26a2fc-d446-4376-92c1-64e21c2b472f,F,2021-01-11 08:27:57,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+917,a771c471-84f6-4705-8427-dbb78c7f7321,F,2021-08-15 08:27:38,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+918,302418a6-fe6a-44e2-ab98-110bf530efe3,M,2021-07-30 11:03:13,PSE,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+919,48e2c8d0-5fa9-4926-8942-3c0809c8aab7,M,2021-01-28 08:46:13,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+920,1b7f49ac-a0be-4fe8-b56b-97a898f387e0,F,2021-02-03 20:39:53,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+921,731dd700-a3d6-4122-a482-4026bc544c36,M,2021-10-04 13:07:51,PSE,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+922,6c5330ca-25b4-40d2-84b2-330e5d09b4a5,F,2020-12-22 14:11:22,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+923,f474d93e-d11d-4eec-a789-f1f214da279f,M,2020-12-19 15:30:38,CREDIT,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+924,9b29875d-3c70-4965-a51a-41bf5a0085b2,M,2020-12-21 01:44:58,PSE,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+925,590701dc-2f9a-4b30-8992-0414161c0f56,M,2021-07-09 21:42:20,PSE,Aperitivos y Cocteles,bebidas,,3.0
+926,0f1a2516-2f48-4063-bc1c-14936cd4bc3b,F,2020-11-24 07:53:52,PSE,Vinos,bebidas,,4.6
+927,beeccdb4-463e-4fb2-85a3-90fadd5c22e2,F,2021-01-31 01:46:53,PSE,Cervezas y Licores,bebidas,,3.7
+928,c081c8b2-6a6c-4272-95b4-5a6e6cee238f,F,2021-07-05 04:14:57,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+929,01be3cbe-f83c-467c-a8df-e94b3a458477,F,2021-03-12 21:14:21,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+930,b4d5dd6c-235e-4762-be50-5af47d40f54a,F,2021-06-06 20:59:25,CREDIT,Postre Típico ,postres,$ 12.000,4.3
+931,ee8eb1e9-b04f-48fa-9af7-69608ef10c26,M,2021-06-22 22:11:42,CREDIT,Postre de Milo ,postres,$ 13.800,3.0
+932,587a9491-1d41-443a-a195-d51145d8adaa,M,2021-05-21 15:55:55,CREDIT,Brownie con Helado ,postres,$ 13.900,4.2
+933,bfe5f96e-06cc-4558-b9fa-73cbe42d9f99,M,2021-10-06 23:12:55,PSE,Postre de Natas ,postres,$ 14.600,3.5
+934,92572f1a-32a1-4161-b7ed-a8e143c86a07,M,2021-02-25 00:54:31,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+935,6636da53-8bb3-4cff-a2ac-5f804e51b8a0,M,2021-09-16 15:51:47,PSE,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+936,c18034a5-3f14-45c3-995c-bc0221fff6f6,F,2021-08-29 14:07:51,CREDIT,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+937,0aa91369-60d1-4520-bae6-0882c7400a39,M,2021-10-12 19:53:19,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+938,9cb1f9be-7a7a-4883-b9ab-0e637aa10c07,F,2021-08-12 11:36:50,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+939,ad5afc0b-3d5b-42b7-bff5-521401a3b87f,F,2021-10-16 07:36:59,PSE,Calentado con Pollo ,desayunos,$ 19.700,4.2
+940,dc09440c-55c1-4efb-a79a-05d32519dabf,F,2021-10-10 02:34:26,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+941,e9b63144-fc24-49bc-b602-70008f3e8890,F,2020-12-03 18:17:17,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+942,6856b2b2-cb37-4cdc-8f03-c2fdbbb2ecdd,M,2021-11-18 05:18:57,PSE,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+943,7e934bb8-f6f7-4615-a412-4d30db7b0afe,M,2021-06-20 13:14:58,PSE,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+944,a3712595-7928-40c1-a83e-c9ea3c882657,F,2021-09-14 10:01:31,PSE,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
+945,16210786-f9ba-40d4-a0bd-df62dfef3b12,F,2021-08-28 13:06:51,CREDIT,Empanaditas Antioqueñas ,entradas,$ 14.000,4.7
+946,ce21bd2f-a080-4eb6-9868-9dc057824b43,F,2020-11-24 07:06:45,PSE,Chicharrón ,entradas,$ 22.600,4.9
+947,a3250e2e-66ba-43c6-935c-3ffa37bddee9,F,2021-01-03 08:44:50,CREDIT,Entrada Típica ,entradas,$ 29.900,4.3
+948,072ceb27-f2a9-4eba-9cef-c1f64950acd4,M,2021-02-10 18:50:40,CREDIT,Plancha de Queso Papialpa ,entradas,$ 24.200,3.5
+949,97800f31-a848-46d7-aff8-9157e1f21eb2,M,2021-06-28 18:33:01,PSE,Crema de Maíz ,entradas,$ 14.500,3.8
+950,33b73cb8-22b8-40d6-8008-09682c1d094f,M,2021-07-23 07:14:50,CREDIT,Sopa Campesina ,entradas,$ 14.000,4.0
+951,3c4f7806-89aa-4093-97dc-7981b694dfcf,F,2021-06-23 00:48:12,CREDIT,Sopa De Guineo ,entradas,$ 14.000,3.9
+952,e3c5dab9-d4c9-48f3-8bf2-b96ba2d86acc,M,2021-02-17 21:23:40,PSE,Coctel Mixto de Camarones ,entradas,$ 35.700,4.0
+953,70728683-a67a-4e3f-88e1-775d58ef427c,M,2021-01-30 01:05:38,PSE,Bandeja Paisa ,platos-fuertes,$ 38.300,4.3
+954,2accf506-b0fc-43f6-8c8f-42e35663cf4e,F,2021-05-07 23:01:14,CREDIT,Cazuela Típica ,platos-fuertes,$ 37.800,4.2
+955,e7fea01d-17ee-4b31-b52a-b92e3783576d,M,2021-11-21 04:24:41,PSE,Mondongo ,platos-fuertes,$ 35.000,3.5
+956,4a95c51a-9491-4963-b167-4dda13db6143,M,2020-12-11 17:25:19,PSE,Ajiaco ,platos-fuertes,$ 35.500,3.5
+957,5c323af0-4e86-4abc-a16d-499403e2b81a,F,2021-04-28 20:15:03,PSE,Sopa de Cura en Vereda ,platos-fuertes,$ 25.900,3.5
+958,95e87190-bbf5-46c5-9475-ad55bfbde66d,M,2021-11-05 07:24:16,PSE,Fríjoles con Chicharrón ,platos-fuertes,$ 36.800,3.3
+959,caa2acff-102a-4eb6-b48e-8aaa6f9787e9,M,2021-08-24 01:12:52,PSE,Posta en Salsa Criolla ,platos-fuertes,$ 42.500,4.8
+960,9f94aa2b-3e19-412d-b3a8-98d416706417,M,2020-12-09 06:41:16,CREDIT,Lengua en Salsa de Carne y Vino ,platos-fuertes,$ 41.500,4.6
+961,5cddbdfe-2bf1-4ac9-be68-c77d89f1f0b5,M,2020-12-26 05:14:13,CREDIT,Lengua en Salsa Criolla ,platos-fuertes,$ 41.500,4.9
+962,130a462b-0306-4d40-8c87-5d9d2fc92755,F,2021-10-29 10:18:46,PSE,Hígado Encebollado ,platos-fuertes,$ 37.000,3.8
+963,f9c013e0-303a-4fa3-b517-b3e4342acadb,M,2021-02-12 17:57:25,CREDIT,Sobrebarriga a la Criolla ,platos-fuertes,$ 42.500,4.8
+964,4ff9e78d-3294-4347-91a9-313246cb05b2,M,2021-07-02 18:42:36,CREDIT,Sancocho Antioqueño ,platos-fuertes,$ 44.600 (findes y festivos),5.0
+965,829f2ec7-e0e4-4f17-a2b3-08e16143d178,M,2021-01-25 04:12:28,PSE,Frijoles Verdes ,platos-fuertes,$ 38.000 (Findes y festivos),4.0
+966,3ec1be1f-c76e-45d3-bd26-9e5715417b19,F,2021-05-10 16:45:03,CREDIT,Churrasco ,platos-fuertes,$ 46.800,3.4
+967,12d00f7c-e4e1-433e-bbec-628ab117a138,M,2021-05-31 01:17:52,CREDIT,Solomito ,platos-fuertes,$ 48.400,4.1
+968,4fe662ea-7064-4b18-823a-1023b8c357b7,F,2021-04-02 02:58:01,CREDIT,Punta de Anca ,platos-fuertes,$ 48.900,4.6
+969,47027918-fe0f-40d0-a444-50ddd15fe998,F,2021-04-04 02:39:16,PSE,Solomito Sterling ,platos-fuertes,$ 50.500,4.7
+970,dbbda9e7-bbde-4f78-800e-ac95a1c8c969,F,2021-04-02 08:56:47,PSE,Pollo ,platos-fuertes,$ 36.500,4.9
+971,db58d6dc-8ab6-455d-bd7f-002ff48ab441,M,2021-06-23 22:25:28,PSE,Pescado ,platos-fuertes,$ 35.000,4.1
+972,e1e56bc4-51b0-4d94-b8cf-953be8f986ca,F,2020-11-29 03:52:28,CREDIT,Trucha ,platos-fuertes,$ 37.000,3.7
+973,4e586f4d-afdd-4527-83f8-50ca2ea8107a,F,2021-07-05 15:28:15,CREDIT,Salmón ,platos-fuertes,$ 54.500,4.5
+974,fcfa244c-76c8-4b63-a137-5acd2bcf42b7,F,2021-07-25 17:14:28,CREDIT,Langostinos ,platos-fuertes,$ 67.600,3.5
+975,178229b2-d5aa-4d11-8f31-8382606ecea5,F,2021-02-25 21:58:12,PSE,Mixta con Langostinos ,platos-fuertes,$ 59.500,4.3
+976,fd400619-628c-4bb0-a031-f7d5869e1c6d,M,2021-08-27 01:46:32,CREDIT,Cañón de Cerdo ,platos-fuertes,$ 41.500,4.4
+977,5d5855bc-483b-4309-a6cf-3535f6a16803,F,2021-04-13 01:40:31,PSE,Pescado en salsa de Camarones ,platos-fuertes,$ 51.500,3.3
+978,5b34e19a-da24-425c-a05e-0bcc9ab13c5e,F,2021-07-13 14:27:55,PSE,Trucha en salsa de Camarones ,platos-fuertes,$ 51.500,4.4
+979,70bf9121-99bf-447c-b42e-0dd7770bf738,F,2021-04-18 15:21:15,CREDIT,Medallones de Solomito ,platos-fuertes,$ 50.500,4.2
+980,caab0078-f4a9-4b22-a80a-840399fb5b36,M,2021-07-25 02:51:51,CREDIT,Pollo en salsa de Queso Papialpa ,platos-fuertes,$ 44.500,4.5
+981,7ce2de93-c07f-452d-8f4a-7c4d84a3054c,M,2021-08-08 16:55:27,CREDIT,Posta Negra Cartagenera ,platos-fuertes,$ 47.000,4.8
+982,9afc7728-01c3-4dd8-a087-2a7fae5e9b49,F,2021-06-20 14:12:26,CREDIT,Cazuela de Mariscos ,platos-fuertes,$ 59.900,3.2
+983,dfb8a002-2e1c-4f16-9bca-882b699a1f9f,F,2021-02-21 08:38:26,CREDIT,Ensalada Hatoviejo ,ensaladas,$ 29.900,3.2
+984,f257f9dd-4598-48db-812c-8ea00dd87535,M,2021-07-21 16:07:37,CREDIT,Nuggets de Pollo ,menu-infantil,$ 22.000,3.3
+985,1c8a8d9a-ee2c-47b3-b5ca-591a4af7bae8,F,2021-04-20 12:32:36,PSE,Deditos de Pescado ,menu-infantil,$ 19.000,3.9
+986,72a91867-21fa-4a2b-9af3-a3402d76c3d9,M,2021-04-22 21:21:51,PSE,Julianas de Solomito ,menu-infantil,$ 21.000,4.3
+987,abe6d8c7-5c83-45e0-bb64-4919ae4f7509,F,2020-11-27 04:43:25,CREDIT,"Sodas Saborizadas, Jugos, Limonadas, gaseosas",bebidas,,4.2
+988,438ff0d5-0417-44af-89d8-044e91f77b60,M,2021-05-15 23:28:52,CREDIT,Aperitivos y Cocteles,bebidas,,3.0
+989,451395cb-9cd1-4cd1-8673-ed7bcf786f31,F,2021-10-11 20:38:56,CREDIT,Vinos,bebidas,,4.6
+990,b1f002f2-ff8b-45dc-906b-301426fe9de6,M,2021-05-22 23:55:59,PSE,Cervezas y Licores,bebidas,,3.7
+991,30d3c1fc-8e9d-4006-b661-b993f5fa85a8,F,2021-03-25 05:20:43,CREDIT,"Café, Té, Aromáticas y bebidas calientes",bebidas,,4.4
+992,a0f1514e-b291-4369-8102-c174282c0645,M,2021-10-18 22:21:57,CREDIT,Flan de Leche ,postres,$ 13.200,4.4
+993,0f18b76d-03e6-452f-9402-a307f2e8d248,M,2021-10-31 07:59:10,PSE,Postre Típico ,postres,$ 12.000,4.3
+994,ae8386b0-8ed7-48ff-ab55-e3be9a57b2b0,F,2021-03-29 21:30:43,PSE,Postre de Milo ,postres,$ 13.800,3.0
+995,63cbded1-4c4f-4128-83fa-f2d426d3e0f9,M,2021-11-05 14:21:57,CREDIT,Brownie con Helado ,postres,$ 13.900,4.2
+996,c5a368cd-f254-4e64-864f-a7a5471284c9,M,2021-05-18 22:51:41,CREDIT,Postre de Natas ,postres,$ 14.600,3.5
+997,704a271e-3a1b-424a-abc1-49d565f17206,F,2021-06-03 11:01:18,CREDIT,Mazamorra ,postres,$ 11.500,3.4
+998,59d5b4b4-f3ea-47de-b454-c6b869edb659,M,2021-10-26 11:18:25,CREDIT,Calentado con Chicharrón ,desayunos,$ 19.700,4.6
+999,5b275fa6-7492-466e-aeda-452f8f97e9ee,F,2021-11-02 03:29:40,PSE,Calentado con Carne desmechada ,desayunos,$ 19.700,3.2
+1000,d86ed718-4936-480b-a280-8046b91efc90,F,2020-11-28 04:55:20,PSE,Calentado con Solomito ,desayunos,$ 24.800,4.5
+1001,fd9bfde7-7a8e-4fd2-bbb2-5abe5361d8e8,M,2021-07-09 17:19:49,CREDIT,Calentado con Chorizo ,desayunos,$ 19.700,4.3
+1002,5eded7a9-438e-4bb8-8a71-75a94cc7dc3b,F,2021-07-21 11:53:48,CREDIT,Calentado con Pollo ,desayunos,$ 19.700,4.2
+1003,2a946a74-bb11-49cd-b572-8faf709ee30f,M,2021-08-11 01:31:23,CREDIT,Calentado con Huevos con Aliños ,desayunos,$ 16.500,3.5
+1004,d8984a75-aded-406d-9fda-2b0f80edcab5,M,2021-08-06 22:55:27,PSE,Bistec a Caballo ,desayunos,$ 29.900,3.8
+1005,6628ea22-56ea-4eef-a8dc-9b2b685884e2,M,2021-10-04 15:13:54,CREDIT,Chorizo con Arepa ,desayunos,$ 12.500,3.0
+1006,c30c35a5-c6d7-4d10-be55-8b3d887f9503,M,2021-03-19 20:24:18,CREDIT,Huevos Especiales con Arepa ,desayunos,$ 19.900,4.6
+1007,ba396d31-f5aa-4bc1-b7e4-a6cb54344ca0,F,2021-04-11 22:36:34,CREDIT,Huevos al gusto con Arepa con queso ,desayunos,$ 15.000,4.2
